@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.48.5 r10040"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P03.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
-     inkscape:cx="765.05303"
-     inkscape:cy="2472.0378"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:cx="943.3139"
+     inkscape:cy="1602.4726"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
+       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep11_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -97,15 +97,15 @@
      id="layer1"
      inkscape:label="txt">
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 85.211193,107.79747 c -23.941644,21.39474 -29.642027,47.88343 -27.361882,60.10894 2.280172,12.22548 34.202338,69.27806 36.482501,84.56004 2.280159,15.28198 -31.922176,83.54114 -25.081709,105.95467 6.840469,22.41353 19.994496,83.38289 110.060637,89.49549 94.20084,5.0463 396.55959,44.1338 462.25842,-43.64972 C 702.29839,310.80615 711.12089,131.1728 632.44848,96.59076 583.42524,78.2524 141.07499,48.70734 85.211193,107.79747 Z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 85.211193,103.2854 c -23.941644,18.63879 -29.642027,41.71534 -27.361882,52.36603 2.280172,10.65066 34.202338,60.35402 36.482501,73.66746 2.280159,13.31343 -31.922176,72.77981 -25.081709,92.30615 6.840469,19.52633 19.994496,72.64194 110.060637,77.96715 94.20084,4.39626 396.55959,38.44871 462.25842,-38.02699 C 702.29839,280.14358 711.12089,123.64965 632.44848,93.522283 583.42524,77.546174 141.07499,51.806953 85.211193,103.2854 z"
        id="path4464"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssscccc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(14.834888,-114.56802)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9"
@@ -113,31 +113,35 @@
            height="358.25998"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3">Le nouveau Roi de Acren est trop doux et bons avec ses sujets. Le peuple doit avoir peur de son Roi.</flowPara></flowRoot>    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 590.93195,402.40123 c -13.14604,32.78603 12.63645,114.47239 62.26505,127.10564 -70.18554,-4.07502 -99.34113,-76.97331 -105.63042,-99.95904 -6.28929,-22.98575 43.36537,-27.1466 43.36537,-27.1466 z"
+         id="flowPara3030-8-1-8-7-8-3">The new King of Acren is too kind and gentle with his subjects. The people must fear their King.</flowPara></flowRoot>    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 590.93195,374.40123 c -13.14604,32.78603 12.63645,114.47239 62.26505,127.10564 -70.18554,-4.07502 -99.34113,-76.97331 -105.63042,-99.95904 -6.28929,-22.98575 43.36537,-27.1466 43.36537,-27.1466 z"
        id="path5010"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(253.55467,1377.7419)"><flowRegion
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="translate(231.55467,1361.7419)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5"
-           width="497.70953"
-           height="358.25998"
-           x="120.55251"
-           y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           width="567.27466"
+           height="327.82516"
+           x="107.50903"
+           y="276.40002"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3-5">Ta premiere mission est d'aller intimider ce monarque pour le manipuler.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3030-8-1-8-7-8-3-5">Your first mission is to </flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3350">find and intimidate </flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3356">the monarch to better manipulate him.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(382.00119,2918.8834)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-2"
@@ -145,7 +149,7 @@
            height="358.25998"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3-5-1">Une vraie sorcière de Chaosah à de l'influence sur les puissants!</flowPara></flowRoot>  </g>
+         id="flowPara3030-8-1-8-7-8-3-5-1">A true witch of Chaosah has influence over the powerful!</flowPara></flowRoot>  </g>
 </svg>
