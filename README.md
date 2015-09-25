@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 11:
+# Episode 11: Witches of Chaosah
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
