@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
-     inkscape:cx="943.3139"
-     inkscape:cy="1602.4726"
+     inkscape:cx="1121.5748"
+     inkscape:cy="385.08132"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -58,19 +58,19 @@
     <image
        sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep11_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 331.52978,1690.643 c 24.33486,-44.2632 68.98392,-86.388 136.11463,-101.4777 67.13059,-15.0897 201.94656,-14.3348 223.7641,-9.3048 21.81734,5.0297 142.63058,24.7719 168.6436,49.9215 26.01322,25.1495 56.35318,62.873 63.9055,95.0643 7.55232,32.1913 0.83912,109.652 -23.49578,126.7537 -24.33484,17.1017 -135.10032,54.323 -199.71361,56.3349 -64.61329,2.0121 -214.81787,-14.0837 -257.61372,-25.1494 -42.79585,-11.0659 -88.109,-25.1497 -101.53509,-60.359 -13.42617,-35.2093 -38.60016,-81.4845 -10.06963,-131.7835 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 331.52978,1704.9041 c 24.33486,-41.3605 68.98392,-80.7228 136.11463,-94.8229 67.13059,-14.1001 201.94656,-13.3947 223.7641,-8.6946 21.81734,4.6999 142.63058,23.1474 168.6436,46.6477 26.01322,23.5002 56.35318,58.7498 63.9055,88.8301 7.55232,30.0802 0.83912,102.4611 -23.49578,118.4413 -24.33484,15.9802 -135.10032,50.7605 -199.71361,52.6405 -64.61329,1.8801 -214.81787,-13.1601 -257.61372,-23.5002 -42.79585,-10.3402 -88.109,-23.5004 -101.53509,-56.4007 -13.42617,-32.9003 -38.60016,-76.1408 -10.06963,-123.1412 z"
        id="path3533"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscssssssc" />
@@ -81,8 +81,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccsccc" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 447.67775,3253.8363 c 11.47611,-78.9499 75.88637,-118.1913 319.21595,-111.619 160.58982,4.3376 298.7703,30.7082 283.4689,146.4108 -15.3016,115.7026 -204.86621,94.2142 -280.9777,94.7799 -82.92527,0.6162 -249.06243,-7.6376 -287.08577,-48.3276 -23.80176,-25.4709 -36.53404,-56.7423 -34.62138,-81.2441 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 447.67233,3242.7884 c 11.14569,-71.1849 73.70145,-106.5668 310.02511,-100.6409 155.96613,3.911 290.16816,27.688 275.30726,132.0108 -14.861,104.3228 -198.9677,84.9479 -272.88779,85.4579 -80.53769,0.5556 -241.89144,-6.8864 -278.82002,-43.5744 -23.11646,-22.9657 -35.48215,-51.1614 -33.62456,-73.2534 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -125,7 +125,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(231.55467,1361.7419)"><flowRegion
+       transform="translate(237.55467,1369.7419)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5"
            width="567.27466"
@@ -142,7 +142,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-6"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(382.00119,2918.8834)"><flowRegion
+       transform="translate(370.00119,2908.8834)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-2"
            width="497.70953"
