@@ -43,13 +43,13 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
-     inkscape:cx="1224.2186"
-     inkscape:cy="1053.2403"
+     inkscape:zoom="0.3478261"
+     inkscape:cx="1369.1639"
+     inkscape:cy="759.85136"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -170,7 +170,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-9-9-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.66530597,0,0,0.68592152,1696.3374,3228.0818)"><flowRegion
+       transform="matrix(0.66530597,0,0,0.68592152,1690.5874,2578.3318)"><flowRegion
          id="flowRegion2989-5-4-7-7-9"><rect
            id="rect2991-7-9-4-3-7"
            width="1100.3401"

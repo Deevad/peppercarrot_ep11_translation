@@ -15,7 +15,7 @@
    inkscape:version="0.91 r"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E10P06.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P07.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -43,9 +43,9 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2602153"
-     inkscape:cx="983.86008"
-     inkscape:cy="1481.5847"
+     inkscape:zoom="0.29924759"
+     inkscape:cx="857.47015"
+     inkscape:cy="1286.1842"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -66,15 +66,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Scripts/lib/peppercarrot_creator/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P07.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P07.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="2481.4438"
        height="3504.5391"
-       width="2481.4438" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -118,7 +118,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3488">thanks to the patronage of its readers.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3497">For this episode, thank you to the 422 Patrons:</flowPara></flowRoot>    <flowRoot
+         id="flowPara3497">For this episode, thank you to the XXX Patrons:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#a72f14;fill-opacity:1;stroke:none"
@@ -163,7 +163,7 @@
        xml:space="preserve"
        id="flowRoot3027-8-8-2-8-6-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.78840156,0,0,0.83353067,254.68892,1944.2866)"><flowRegion
+       transform="matrix(0.78840156,0,0,0.83353067,254.68892,1952.2866)"><flowRegion
          id="flowRegion3029-9-3-5-1-2-8"><rect
            id="rect3031-9-1-6-8-7-4"
            width="2230.314"
@@ -179,7 +179,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara4904">Software : this episode was 100% drawn with libre software</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara4908">Krita 2.9.6 , Inkscape 0.91 on Linux Mint 17 </flowPara></flowRoot>    <flowRoot
+         id="flowPara4908"><flowSpan
+           style="font-size:38.54920959px"
+           id="flowSpan4836"> Krita 2.9.7 , Gmic 1.6.5.2, Inkscape 0.91 on Linux Mint 17</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4307"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
