@@ -21,6 +21,8 @@ License
 
 * French:     David Revoy
 
+* Italian:    Carlo Gandolfi
+
 * Polish:     Sölve Svartskogen
 
 * Russian:    Denis "uncle Night" Prisukhin
