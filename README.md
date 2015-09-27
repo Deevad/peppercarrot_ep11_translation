@@ -23,7 +23,7 @@ License
 
 * Russian:    Denis "uncle Night" Prisukhin
 
-* Swedish: Mikael Olofsson
+* Swedish:    Mikael Olofsson
 
 * Vietnamese: Binh Pham
 
