@@ -21,6 +21,8 @@ License
 
 * Polish: Sölve Svartskogen
 
+* Swedish: Mikael Olofsson
+
 * Vietnamese: Binh Pham
 
 
