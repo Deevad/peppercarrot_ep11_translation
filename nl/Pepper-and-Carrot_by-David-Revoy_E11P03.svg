@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P03.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="832"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.52900001"
+     inkscape:cx="903.43082"
+     inkscape:cy="2695.107"
+     inkscape:window-x="1276"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep11_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 312.62619,1665.2066 c 30.00593,-45.1413 101.12002,-46.6964 153.12786,-51.3447 68.32305,-6.1065 132.00327,-3.9429 221.87374,-3.0235 78.52811,-0.9712 152.08238,8.0245 210.2315,52.3188 27.8872,21.2426 27.78041,67.4744 24.20796,98.2819 -5.68019,48.9838 -28.13962,67.0337 -49.96081,86.3052 -48.36851,42.7168 -124.30763,61.9154 -194.04253,63.9826 -72.30736,2.1435 -199.05864,-4.3446 -238.71013,-17.8291 -41.68292,-14.1753 -79.71125,-28.8431 -112.87724,-60.1814 -30.90001,-29.1972 -49.94232,-117.7287 -13.85035,-168.5098 z"
+       id="path3533"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 883.77495,1745.1358 c 44.44471,-22.895 116.41795,-23.2688 129.48195,54.9811 34.6887,14.392 59.3221,29.36 66.1093,93.306 -13.8854,-45.9668 -26.6681,-69.4371 -79.48608,-86.6191 -11.9779,-39.1913 -54.96889,-53.3177 -104.25568,-15.6318 -49.28677,37.6861 -33.32019,31.3976 -33.32019,31.3976 l 7.61389,-70.6093 z"
+       id="path5074"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 447.67436,3235.7711 c -1.77388,-94.9856 74.5208,-112.9075 313.47168,-106.629 157.70001,4.1437 269.48096,-5.4472 267.49826,133.3436 -1.5932,111.5353 -203.35351,103.0457 -278.09537,103.586 -81.43304,0.5887 -235.88491,-9.47 -273.22403,-48.3409 -23.37345,-24.3322 -31.52878,-58.5533 -29.65054,-81.9597 z"
+       id="path4546"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 843.307,3015.1845 c 2.65817,11.0982 0.56895,24.6098 -8.84773,31.9849 -5.62965,4.0443 -12.97276,2.0162 -19.04568,4.8468 -8.44733,3.1446 -16.46289,10.0409 -18.02057,19.2705 0.0653,7.4653 1.05874,14.9149 0.52347,22.3958 -1.23196,27.771 -10.8096,54.396 -22.46763,79.3592 -5.64729,11.4381 -13.39659,23.4472 -26.11245,27.6947 -16.1949,5.4362 -36.3337,-0.7941 -44.785,-16.0969 -6.51063,-11.8916 -4.4561,-28.8897 6.977,-37.0555 4.50534,-3.0892 10.47549,-3.6869 15.52559,-1.6486 15.26771,3.1726 30.67539,-6.5495 37.98276,-19.6292 3.60047,-6.8956 6.43699,-14.1742 9.42856,-21.3428 3.97281,-11.1175 3.9698,-23.063 3.60289,-34.7049 0.0253,-9.3943 6.41635,-17.2373 13.10891,-23.172 5.2564,-4.4486 11.48592,-7.7593 18.14178,-9.542 13.68673,2.4208 27.19412,-12.0571 23.62541,-25.5491 -3.98085,-17.1637 -9.21424,-34.0065 -14.85124,-50.6943 10.19853,16.9993 20.83311,34.3074 25.21393,53.8834 z"
+       id="path4496"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 90.122198,102.26187 c -28.167394,18.01362 -34.873906,40.31615 -32.191311,50.6096 2.682627,10.29342 40.239121,58.32967 42.921733,71.19656 2.68262,12.86687 -37.556501,70.33867 -29.508678,89.21007 8.047826,18.87139 23.523566,70.20543 129.486568,75.35203 110.82748,4.2488 466.55317,37.15909 543.84798,-36.75152 C 816.12656,273.18799 826.50625,121.94307 733.94799,92.82622 676.27205,77.385972 155.84607,52.510079 90.122198,102.26187 Z"
+       id="path4464"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-5-9-8-3-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(12.944529,-133.47161)"><flowRegion
+         id="flowRegion2989-5-4-5-8-9-5-4-2"><rect
+           id="rect2991-7-9-6-5-7-5-4-9"
+           width="611.13104"
+           height="276.97452"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3030-8-1-8-7-8-3">De nieuwe Koning van Acren is te lief en aardig voor zijn onderdanen. De mensen moeten hun Koning vrezen.</flowPara></flowRoot>    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 590.93195,374.40123 c -13.14604,32.78603 12.63645,114.47239 62.26505,127.10564 -70.18554,-4.07502 -99.34113,-76.97331 -105.63042,-99.95904 -6.28929,-22.98575 43.36537,-27.1466 43.36537,-27.1466 z"
+       id="path5010"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-5-9-8-3-5-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(226.21252,1365.9612)"><flowRegion
+         id="flowRegion2989-5-4-5-8-9-5-4-2-2"><rect
+           id="rect2991-7-9-6-5-7-5-4-9-5"
+           width="538.91925"
+           height="342.94806"
+           x="107.50903"
+           y="276.40002"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3356">Je eerste missie is hem te vinden en te intimideren, zodat we hem kunnen manipuleren.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-5-9-8-3-5-4-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(368.11083,2899.4316)"><flowRegion
+         id="flowRegion2989-5-4-5-8-9-5-4-2-2-2"><rect
+           id="rect2991-7-9-6-5-7-5-4-9-5-2"
+           width="497.70953"
+           height="358.25998"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3030-8-1-8-7-8-3-5-1">Een echte heks van Chaosah heeft invloed op de machtigen!</flowPara></flowRoot>  </g>
+</svg>

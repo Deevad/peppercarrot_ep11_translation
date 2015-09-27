@@ -15,6 +15,8 @@ License
 
 * Català:     Juan José Segura
 
+* Dutch:      Willem Sonke
+
 * English:    Alex Gryson
 
 * French:     David Revoy
