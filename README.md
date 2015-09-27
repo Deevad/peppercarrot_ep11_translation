@@ -13,9 +13,16 @@ License
 
 ## Translators and correctors:
 
+* Català: Juan José Segura
+
 * English: Alex Gryson
+
 * French: David Revoy
+
+* Polish: Sölve Svartskogen
+
 * Russian: Denis "uncle Night" Prisukhin
+
 * Vietnamese: Binh Pham
 
 
