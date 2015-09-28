@@ -33,6 +33,8 @@ License
 
 * Ukrainian:  Denis "uncle Night" Prisukhin
 
+* Mexicano:   RJ Quiralta
+
 ## Artwork:
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
