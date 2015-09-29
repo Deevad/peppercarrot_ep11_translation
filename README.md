@@ -23,17 +23,18 @@ License
 
 * Italian:    Carlo Gandolfi
 
+* Mexicano:   RJ Quiralta
+
 * Polish:     Sölve Svartskogen
 
 * Russian:    Denis "uncle Night" Prisukhin
 
 * Swedish:    Mikael Olofsson
 
-* Vietnamese: Binh Pham
-
 * Ukrainian:  Denis "uncle Night" Prisukhin
 
-* Mexicano:   RJ Quiralta
+* Vietnamese: Binh Pham
+
 
 ## Artwork:
 
