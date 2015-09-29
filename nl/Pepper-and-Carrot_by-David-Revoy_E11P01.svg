@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P01.svg">
@@ -39,30 +39,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-width="1600"
+     inkscape:window-height="832"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.52601299"
-     inkscape:cx="1447.4203"
-     inkscape:cy="1863.5788"
-     inkscape:window-x="0"
+     inkscape:zoom="0.13150325"
+     inkscape:cx="936.74216"
+     inkscape:cy="601.3794"
+     inkscape:window-x="1276"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/WinMedia/pcn/peppercarrot_ep11_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep11_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -70,7 +70,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 70.83848,1753.486 c -5.293147,-107.8182 42.08705,-122.0985 254.52624,-121.1941 212.43909,0.9042 263.68616,18.866 270.55925,89.5431 6.29787,64.7617 -22.87487,93.9111 -50.6384,108.1278 -39.73087,20.3444 -186.72231,24.425 -282.43046,20.767 -87.27863,-3.3359 -198.029076,-34.8462 -192.01663,-97.2438 z"
+       d="m 84.26351,1755.7171 c -5.049809,-128.9309 26.70945,-124.4991 229.38231,-123.4177 202.67277,1.0813 254.25244,-25.8336 260.80956,58.6833 6.00834,77.4433 -59.46299,136.4975 -85.95017,153.498 -37.90435,24.3282 -132.43286,48.0278 -223.74107,43.6535 -83.26623,-3.9891 -186.23667,-57.801 -180.50063,-132.4171 z"
        id="path3065"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -82,7 +82,7 @@
        sodipodi:nodetypes="cssssssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1767.0792,1753.5195 c 10.3972,-54.5333 9.1532,-148.7098 330.5126,-142.3637 321.3596,6.3464 308.8731,29.0407 316.1909,151.7008 7.3178,122.6597 -133.7521,139.0214 -330.5664,139.3153 -228.6257,0.3414 -318.8225,-59.276 -316.1371,-148.6524 z"
+       d="m 1737.5073,1733.5487 c 10.786,-51.0104 9.4955,-139.1029 342.8727,-133.1668 333.3774,5.9364 320.424,27.1646 328.0154,141.9007 7.5915,114.7357 -138.754,130.0404 -342.9285,130.3153 -237.1756,0.3194 -330.7454,-55.4467 -327.9596,-139.0492 z"
        id="path5026"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -99,7 +99,7 @@
        sodipodi:nodetypes="cscc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 2295.182,1822.1558 c -15.4539,18.0781 -34.4193,44.3463 -33.8114,53.7712 0.8079,9.3246 11.6508,27.238 10.4321,49.7021 -1.0616,19.5667 -14.0824,60.651 -76.2349,91.1318 39.1463,-33.6868 47.3811,-82.8609 45.3101,-99.1786 -1.7861,-14.0729 -24.2104,-45.8128 -23.7763,-55.1893 -0.878,-26.1428 12.9745,-54.7358 37.3709,-63.0033 24.3967,-8.2674 40.7095,22.7661 40.7095,22.7661 z"
+       d="m 2291.4852,1815.4344 c -15.4539,18.0781 -34.4193,44.3463 -33.8114,53.7712 0.8079,9.3246 11.6508,27.238 10.4321,49.7021 -1.0616,19.5667 -14.0824,60.651 -76.2349,91.1318 39.1463,-33.6868 47.3811,-82.8609 45.3101,-99.1786 -1.7861,-14.0729 -24.2104,-45.8128 -23.7763,-55.1893 -0.878,-26.1428 12.9745,-54.7358 37.3709,-63.0033 24.3967,-8.2674 40.7095,22.7661 40.7095,22.7661 z"
        id="path3272"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscscsc" />
@@ -129,7 +129,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(14.87866,1430.8032)"><flowRegion
+       transform="translate(8.9379545,1409.2948)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="396.31476"
@@ -138,11 +138,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8">Pepper, przynosisz wstyd Chaosowi.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3030-8">Pepper, je bent een schande voor Chaosah.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(851.75958,1414.1681)"><flowRegion
+       transform="translate(857.22868,1400.7253)"><flowRegion
          id="flowRegion2989-5-4-5-1"><rect
            id="rect2991-7-9-6-4"
            width="537.16528"
@@ -151,15 +151,13 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara4289">Cayenne ma rację.</flowPara><flowPara
+         id="flowPara4289">Cayenne heeft gelijk,</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3345">Wiedźma Chaosu musi być pokorna, a zarazem wzbudzać strach</flowPara><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3372">i szacunek.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3345">een heks van Chaosah die haar titel waard is moet nederigheid, angst en respect afdwingen.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-9-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1705.7804,1444.1673)"><flowRegion
+       transform="translate(1693.8633,1414.8683)"><flowRegion
          id="flowRegion2989-5-4-5-1-6"><rect
            id="rect2991-7-9-6-4-8"
            width="637.72778"
@@ -168,11 +166,13 @@
            y="268.03046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3349">A ty oferujesz poczęstunek naszym demonom...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3349">... terwijl jij koekjes en cakejes</flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara4177">zit te eten, zelfs met onze demonen*...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-9-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.66530597,0,0,0.68592152,1714.3374,2574.0818)"><flowRegion
+       transform="matrix(0.66530597,0,0,0.68592152,1661.3862,2574.0818)"><flowRegion
          id="flowRegion2989-5-4-7-7-9"><rect
            id="rect2991-7-9-4-3-7"
            width="1100.3401"
@@ -181,11 +181,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
-         id="flowPara3080-9-7-0">*Odcinek 8: Przyjęcie urodzinowe Pepper</flowPara></flowRoot>    <flowRoot
+         id="flowPara3080-9-7-0">* Zie aflevering 8: Peppers verjaardagsfeest</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1403.1513,2630.8459)"><flowRegion
+       transform="translate(1405.6686,2630.8459)"><flowRegion
          id="flowRegion2989-5-4-5-4"><rect
            id="rect2991-7-9-6-8"
            width="154.90172"
@@ -194,11 +194,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-3">Ale</flowPara></flowRoot>    <flowRoot
+         id="flowPara3030-8-3">Maar...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1434.8324,2722.62)"><flowRegion
+       transform="translate(1429.1049,2724.7653)"><flowRegion
          id="flowRegion2989-5-4-5-4-2"><rect
            id="rect2991-7-9-6-8-8"
            width="347.4017"
@@ -207,5 +207,5 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-3-6">drogie babcie...</flowPara></flowRoot>  </g>
+         id="flowPara3030-8-3-6">... peettantes...</flowPara></flowRoot>  </g>
 </svg>

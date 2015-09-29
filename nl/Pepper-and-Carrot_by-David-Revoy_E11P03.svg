@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P03.svg">
@@ -39,14 +39,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-width="1600"
+     inkscape:window-height="832"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900001"
-     inkscape:cx="1365.3055"
-     inkscape:cy="1537.4493"
-     inkscape:window-x="0"
+     inkscape:cx="903.43082"
+     inkscape:cy="2695.107"
+     inkscape:window-x="1276"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/WinMedia/pcn/peppercarrot_ep11_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep11_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -70,7 +70,7 @@
      inkscape:label="speechbubbles">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 331.52978,1704.9041 c 24.33486,-41.3605 68.98392,-80.7228 136.11463,-94.8229 67.13059,-14.1001 201.94656,-13.3947 223.7641,-8.6946 21.81734,4.6999 142.63058,23.1474 168.6436,46.6477 26.01322,23.5002 56.35318,58.7498 63.9055,88.8301 7.55232,30.0802 -9.45511,92.9381 -23.49578,118.4413 -16.23241,29.4843 -129.97871,50.5733 -199.71361,52.6405 -72.30736,2.1435 -217.96223,-10.0157 -257.61372,-23.5002 -41.68292,-14.1753 -88.109,-23.5004 -101.53509,-56.4007 -13.42617,-32.9003 -38.60016,-76.1408 -10.06963,-123.1412 z"
+       d="m 312.62619,1665.2066 c 30.00593,-45.1413 101.12002,-46.6964 153.12786,-51.3447 68.32305,-6.1065 132.00327,-3.9429 221.87374,-3.0235 78.52811,-0.9712 152.08238,8.0245 210.2315,52.3188 27.8872,21.2426 27.78041,67.4744 24.20796,98.2819 -5.68019,48.9838 -28.13962,67.0337 -49.96081,86.3052 -48.36851,42.7168 -124.30763,61.9154 -194.04253,63.9826 -72.30736,2.1435 -199.05864,-4.3446 -238.71013,-17.8291 -41.68292,-14.1753 -79.71125,-28.8431 -112.87724,-60.1814 -30.90001,-29.1972 -49.94232,-117.7287 -13.85035,-168.5098 z"
        id="path3533"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscssssssc" />
@@ -98,7 +98,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 85.211193,113.29173 c -23.941644,18.63879 -29.642027,41.71534 -27.361882,52.36603 2.280172,10.65066 34.202338,60.35402 36.482501,73.66746 2.280159,13.31343 -31.922176,72.77981 -25.081709,92.30615 6.840469,19.52633 19.994496,72.64194 110.060637,77.96715 94.20084,4.39626 396.55959,38.44871 462.25842,-38.02699 60.72923,-81.42162 69.55173,-237.91555 -9.12068,-268.04292 C 583.42524,87.552505 141.07499,61.813284 85.211193,113.29173 Z"
+       d="m 90.122198,102.26187 c -28.167394,18.01362 -34.873906,40.31615 -32.191311,50.6096 2.682627,10.29342 40.239121,58.32967 42.921733,71.19656 2.68262,12.86687 -37.556501,70.33867 -29.508678,89.21007 8.047826,18.87139 23.523566,70.20543 129.486568,75.35203 110.82748,4.2488 466.55317,37.15909 543.84798,-36.75152 C 816.12656,273.18799 826.50625,121.94307 733.94799,92.82622 676.27205,77.385972 155.84607,52.510079 90.122198,102.26187 Z"
        id="path4464"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssscccc" />
@@ -106,16 +106,16 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(3.588009,-155.42155)"><flowRegion
+       transform="translate(12.944529,-133.47161)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9"
-           width="497.70953"
-           height="358.25998"
+           width="611.13104"
+           height="276.97452"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3">Nowo wybrany król Acren jest zbyt dobry dla swych poddanych. Ludzie powinni bać się władcy.</flowPara></flowRoot>    <path
+         id="flowPara3030-8-1-8-7-8-3">De nieuwe Koning van Acren is te lief en aardig voor zijn onderdanen. De mensen moeten hun Koning vrezen.</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 590.93195,374.40123 c -13.14604,32.78603 12.63645,114.47239 62.26505,127.10564 -70.18554,-4.07502 -99.34113,-76.97331 -105.63042,-99.95904 -6.28929,-22.98575 43.36537,-27.1466 43.36537,-27.1466 z"
        id="path5010"
@@ -125,20 +125,20 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(230.59292,1378.7768)"><flowRegion
+       transform="translate(226.21252,1365.9612)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5"
-           width="567.27466"
-           height="327.82516"
+           width="538.91925"
+           height="342.94806"
            x="107.50903"
            y="276.40002"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3356">Twoją pierwszą misją jest odnalezienie i zastraszenie monarchy, by nim później manipulować.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3356">Je eerste missie is hem te vinden en te intimideren, zodat we hem kunnen manipuleren.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(368.53641,2894.3063)"><flowRegion
+       transform="translate(368.11083,2899.4316)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-2"
            width="497.70953"
@@ -147,7 +147,5 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3-5-1">Prawdziwe wiedźmy Chaosu mają wpływy</flowPara><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3354">u możnych tego świata!</flowPara></flowRoot>  </g>
+         id="flowPara3030-8-1-8-7-8-3-5-1">Een echte heks van Chaosah heeft invloed op de machtigen!</flowPara></flowRoot>  </g>
 </svg>

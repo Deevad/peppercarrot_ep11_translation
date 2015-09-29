@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P04.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.42773947"
-     inkscape:cx="1046.733"
-     inkscape:cy="393.17209"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.30245748"
+     inkscape:cx="957.08203"
+     inkscape:cy="589.4463"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,8 +56,8 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/WinMedia/pcn/peppercarrot_ep11_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
+       sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep11_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
        width="2481"
        height="3503"
        id="image10"
@@ -81,7 +81,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 2414.6137,2672.5092 c 5.2954,37.3665 13.0929,36.1278 7.3957,42.6329 9.4211,31.0074 29.1484,67.8547 -23.0956,84.6472 -11.7888,25.0016 -105.3132,43.3239 -135.7507,24.2251 -20.2324,19.8058 -53.4234,20.8871 -67.561,6.2565 -14.144,17.2493 -34.9579,-0.7482 -36.9211,-4.5513 -18.0705,9.6433 -43.9932,4.0739 -54.4005,-4.9249 -23.9631,14.1741 -76.5932,-4.8622 -76.1948,-32.7937 -28.8664,-19.2445 -31.2183,-42.9362 -23.1632,-57.6295 -22.1894,-15.8774 -36.1184,-92.2945 24.7656,-101.9174 16.1107,-29.3863 62.2663,-43.6229 84.4555,-27.7452 29.2646,-8.6874 47.5311,-16.3562 55.3836,-1.1438 14.144,-17.2496 52.0485,-18.767 42.2229,10.0377 17.6558,-19.4512 39.6189,-15.472 57.0217,-4.5519 27.6276,-23.0642 64.5693,-16.232 64.9022,5.382 39.7525,-10.5164 47.6065,22.9326 46.1437,35.5992 6.5129,1.6754 22.0086,2.5189 34.796,26.4771 z"
+       d="m 2356.5498,2672.5092 c 3.8848,37.3665 9.6051,36.1278 5.4256,42.6329 6.9114,31.0074 21.3836,67.8547 -16.9432,84.6472 -8.6484,25.0016 -77.2591,43.3239 -99.5884,24.2251 -14.8427,19.8058 -39.192,20.8871 -49.5635,6.2565 -10.3762,17.2493 -25.6456,-0.7482 -27.0858,-4.5513 -13.2567,9.6433 -32.2739,4.0739 -39.9089,-4.9249 -17.5796,14.1741 -56.1896,-4.8622 -55.8974,-32.7937 -21.1767,-19.2445 -22.9021,-42.9362 -16.9927,-57.6295 -16.2785,-15.8774 -26.497,-92.2945 18.1683,-101.9174 11.819,-29.3863 45.6793,-43.6229 61.9576,-27.7452 21.4688,-8.6874 34.8693,-16.3562 40.6301,-1.1438 10.3762,-17.2496 38.1833,-18.767 30.9751,10.0377 12.9525,-19.4512 29.0649,-15.472 41.8318,-4.5519 20.268,-23.0642 47.3689,-16.232 47.6131,5.382 29.1629,-10.5164 34.9247,22.9326 33.8515,35.5992 4.778,1.6754 16.1459,2.5189 25.5268,26.4771 z"
        id="path4043-2-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccc" />
@@ -115,7 +115,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(746.99128,1702.1525)"><flowRegion
+       transform="translate(753.04179,1697.0696)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5"
            width="497.70953"
@@ -124,11 +124,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3-5">Król?!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3030-8-1-8-7-8-3-5">A király...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(870.45784,1795.8489)"><flowRegion
+       transform="translate(869.66915,1804.7426)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-5"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-4"
            width="497.70953"
@@ -137,7 +137,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara4229">Taki młody?!</flowPara></flowRoot>    <flowRoot
+         id="flowPara4229">ilyen fiatal?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -150,7 +150,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3360">Musimy być rówieśnikami.</flowPara></flowRoot>    <path
+         id="flowPara3360">Egyidősek</flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3365">lehetünk...</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 2210.6349,2528.6131 c 2.0696,-13.9994 -8.3532,-20.0368 -8.3532,-20.0368 0,0 5.6241,-8.6102 1.0865,-17.2136 -4.5378,-8.6035 -16.6613,-7.7412 -16.6613,-7.7412 0,0 -11.2882,-7.8287 -23.7806,0.1332 -12.4925,7.9618 -19.7553,11.2152 -20.6573,24.8788 -7.6828,3.9568 -11.1303,18.6435 -6.6181,24.0487 4.5121,5.4054 16.5736,16.7998 32.3596,8.1827 5.4699,5.4216 25.1937,16.9447 42.6244,-12.2518 z"
        id="path5090-2"
@@ -166,7 +168,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0-5-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(392.87642,2966.7834)"><flowRegion
+       transform="translate(395.37547,2942.7834)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-5-0-8"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-4-3-2"
            width="745.54956"
@@ -175,7 +177,11 @@
            y="277.03046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3369">Na co czekasz?! Idź,</flowPara><flowPara
+         id="flowPara3343">Mire vársz?!</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3366">nastrasz go,nie daj mu spać!</flowPara></flowRoot>  </g>
+         id="flowPara3369">Gyerünk, ébreszd fel, rémiszd</flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3373">és félemlítsd meg!</flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3371" /></flowRoot>  </g>
 </svg>

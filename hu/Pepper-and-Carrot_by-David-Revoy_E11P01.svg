@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P01.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.52601299"
-     inkscape:cx="1447.4203"
-     inkscape:cy="1863.5788"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.37194736"
+     inkscape:cx="1058.2829"
+     inkscape:cy="1089.2473"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/WinMedia/pcn/peppercarrot_ep11_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep11_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -76,7 +76,7 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 900.21742,1754.7355 c 14.20505,-88.3086 135.59208,-105.0759 152.37978,-112.9008 16.7874,-7.8246 112.8901,-13.3085 124.5123,-12.1908 11.6223,1.1179 90.853,-5.7003 150.3398,-5.0047 62.2369,0.7277 97.7306,-11.2196 182.1914,26.8794 26.3609,11.891 68.2182,55.8439 76.9904,129.8301 3.8256,32.2662 -9.748,104.2815 -63.046,134.9027 -130.0171,74.6987 -244.3304,64.3709 -336.0164,58.7817 -91.6861,-5.589 -180.4982,-20.7896 -227.4615,-57.6758 -50.76311,-39.8706 -72.80318,-119.0265 -59.88978,-162.6218 z"
+       d="m 873.61361,1754.7355 c 15.31102,-88.3086 146.14889,-105.0759 164.24369,-112.9008 18.0944,-7.8246 121.6794,-13.3085 134.2065,-12.1908 12.5271,1.1179 97.9265,-5.7003 162.0448,-5.0047 67.0825,0.7277 105.3396,-11.2196 196.3763,26.8794 28.4133,11.891 73.5295,55.8439 82.9847,129.8301 4.1235,32.2662 -10.5069,104.2815 -67.9546,134.9027 -140.1399,74.6987 -263.3533,64.3709 -362.1777,58.7817 -98.8245,-5.589 -194.55132,-20.7896 -245.17105,-57.6758 -54.71539,-39.8706 -78.47144,-119.0265 -64.55264,-162.6218 z"
        id="path3061"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssssc" />
@@ -110,7 +110,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1533.2877,3017.3447 c -1.288,-23.338 18.0313,-40.0079 72.1255,-55.249 54.0941,-15.241 128.7957,-11.4308 148.1149,-6.668 19.3194,4.7628 92.7357,-7.5696 136.0188,20.8789 51.0712,26.8553 27.3644,83.778 -9.7989,94.3819 -23.1832,5.7155 -188.0418,13.336 -215.0888,9.5256 -27.047,-3.8101 -70.8377,-4.7628 -94.0208,-16.1936 -23.503,-11.5885 -36.0628,-23.3379 -37.3507,-46.6758 z"
+       d="m 1517.1614,3017.3447 c -1.3958,-23.338 19.5397,-40.0079 78.1593,-55.249 58.6195,-15.241 139.5704,-11.4308 160.5058,-6.668 20.9356,4.7628 100.4937,-7.5696 147.3978,20.8789 55.3436,26.8553 29.6536,83.778 -10.6187,94.3819 -25.1226,5.7155 -203.7728,13.336 -233.0825,9.5256 -29.3097,-3.8101 -76.7638,-4.7628 -101.8863,-16.1936 -25.4692,-11.5885 -39.0798,-23.3379 -40.4754,-46.6758 z"
        id="path3373"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssccssz" />
@@ -129,7 +129,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(14.87866,1430.8032)"><flowRegion
+       transform="translate(27.757822,1430.8032)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="396.31476"
@@ -138,28 +138,26 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8">Pepper, przynosisz wstyd Chaosowi.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3030-8">Paprika, szégyent hozol Káoszahra.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(851.75958,1414.1681)"><flowRegion
+       transform="translate(857.22868,1414.1681)"><flowRegion
          id="flowRegion2989-5-4-5-1"><rect
            id="rect2991-7-9-6-4"
-           width="537.16528"
-           height="297.96033"
-           x="120.55251"
-           y="265.53046"
+           width="693.78638"
+           height="403.30795"
+           x="40.245293"
+           y="260.15335"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara4289">Cayenne ma rację.</flowPara><flowPara
+         id="flowPara4289">Cayenne-nek igaza van.</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3345">Wiedźma Chaosu musi być pokorna, a zarazem wzbudzać strach</flowPara><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3372">i szacunek.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3376">Egy boszorkánynak, aki ki- érdemli Káoszah címét, alázatot, félelmet és tiszteletet kell parancsolnia.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-9-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1705.7804,1444.1673)"><flowRegion
+       transform="translate(1704.6175,1412.1797)"><flowRegion
          id="flowRegion2989-5-4-5-1-6"><rect
            id="rect2991-7-9-6-4-8"
            width="637.72778"
@@ -168,11 +166,11 @@
            y="268.03046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3349">A ty oferujesz poczęstunek naszym demonom...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3385">...ehelyett te még a démonjainkat is teával és süteménnyel kínálod.*</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-9-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.66530597,0,0,0.68592152,1714.3374,2574.0818)"><flowRegion
+       transform="matrix(0.66530597,0,0,0.68592152,1848.3374,2574.0818)"><flowRegion
          id="flowRegion2989-5-4-7-7-9"><rect
            id="rect2991-7-9-4-3-7"
            width="1100.3401"
@@ -181,11 +179,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
-         id="flowPara3080-9-7-0">*Odcinek 8: Przyjęcie urodzinowe Pepper</flowPara></flowRoot>    <flowRoot
+         id="flowPara3080-9-7-0">*8. rész: Paprika születésnapja</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1403.1513,2630.8459)"><flowRegion
+       transform="translate(1405.6686,2630.8459)"><flowRegion
          id="flowRegion2989-5-4-5-4"><rect
            id="rect2991-7-9-6-8"
            width="154.90172"
@@ -194,18 +192,18 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-3">Ale</flowPara></flowRoot>    <flowRoot
+         id="flowPara3030-8-3">De...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1434.8324,2722.62)"><flowRegion
+       transform="translate(1437.1706,2724.7653)"><flowRegion
          id="flowRegion2989-5-4-5-4-2"><rect
            id="rect2991-7-9-6-8-8"
-           width="347.4017"
-           height="63.239929"
-           x="120.55251"
+           width="403.86133"
+           height="65.928467"
+           x="93.666985"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-3-6">drogie babcie...</flowPara></flowRoot>  </g>
+         id="flowPara3030-8-3-6">keresztmamáim...</flowPara></flowRoot>  </g>
 </svg>

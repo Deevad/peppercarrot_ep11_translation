@@ -13,9 +13,28 @@ License
 
 ## Translators and correctors:
 
-* English: Alex Gryson
-* French: David Revoy
-* Polish: Sölve Svartskogen
+* Català:     Juan José Segura
+
+* Dutch:      Willem Sonke
+
+* English:    Alex Gryson
+
+* French:     David Revoy
+
+* Hungarian: Halász Gábor "Hali"
+
+* Italian:    Carlo Gandolfi
+
+* Mexicano:   RJ Quiralta
+
+* Polish:     Sölve Svartskogen
+
+* Russian:    Denis "uncle Night" Prisukhin
+
+* Swedish:    Mikael Olofsson
+
+* Ukrainian:  Denis "uncle Night" Prisukhin
+
 * Vietnamese: Binh Pham
 
 

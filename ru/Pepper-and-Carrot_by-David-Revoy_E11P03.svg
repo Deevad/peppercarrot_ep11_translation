@@ -39,30 +39,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900001"
-     inkscape:cx="1365.3055"
-     inkscape:cy="1537.4493"
+     inkscape:cx="1246.8197"
+     inkscape:cy="246.92569"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/WinMedia/pcn/peppercarrot_ep11_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot_ep11_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -70,19 +70,19 @@
      inkscape:label="speechbubbles">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 331.52978,1704.9041 c 24.33486,-41.3605 68.98392,-80.7228 136.11463,-94.8229 67.13059,-14.1001 201.94656,-13.3947 223.7641,-8.6946 21.81734,4.6999 142.63058,23.1474 168.6436,46.6477 26.01322,23.5002 56.35318,58.7498 63.9055,88.8301 7.55232,30.0802 -9.45511,92.9381 -23.49578,118.4413 -16.23241,29.4843 -129.97871,50.5733 -199.71361,52.6405 -72.30736,2.1435 -217.96223,-10.0157 -257.61372,-23.5002 -41.68292,-14.1753 -88.109,-23.5004 -101.53509,-56.4007 -13.42617,-32.9003 -38.60016,-76.1408 -10.06963,-123.1412 z"
+       d="m 291.77015,1708.5563 c 27.7433,-31.7715 78.64608,-62.0081 155.17937,-72.8392 76.53316,-10.8312 230.23197,-10.2893 255.10535,-6.6789 24.87317,3.6103 162.60797,17.781 192.26448,35.8329 29.65672,18.052 64.24622,45.1293 72.85634,68.2359 8.61013,23.1063 -10.77943,71.3912 -26.78669,90.9818 -18.50598,22.6487 -148.18403,38.8484 -227.68625,40.4363 -82.43502,1.6466 -248.49086,-7.6937 -293.69609,-18.0519 -47.52119,-10.8889 -100.44988,-18.0521 -115.75648,-43.3248 -15.3067,-25.2727 -44.00664,-58.4883 -11.48003,-94.5921 z"
        id="path3533"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscssssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 883.77495,1745.1358 c 44.44471,-22.895 116.41795,-23.2688 129.48195,54.9811 34.6887,14.392 59.3221,29.36 66.1093,93.306 -13.8854,-45.9668 -26.6681,-69.4371 -79.48608,-86.6191 -11.9779,-39.1913 -54.96889,-53.3177 -104.25568,-15.6318 -49.28677,37.6861 -33.32019,31.3976 -33.32019,31.3976 l 7.61389,-70.6093 z"
+       d="m 883.77495,1739.4647 c 44.44471,-22.895 116.41795,-23.2688 129.48195,54.9811 34.6887,14.392 59.3221,29.36 66.1093,93.306 -13.8854,-45.9668 -26.6681,-69.4371 -79.48608,-86.6191 -11.9779,-39.1913 -54.96889,-53.3177 -104.25568,-15.6318 -49.28677,37.6861 -33.32019,31.3976 -33.32019,31.3976 l 7.61389,-70.6093 z"
        id="path5074"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccsccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 447.67436,3235.7711 c -1.77388,-94.9856 74.5208,-112.9075 313.47168,-106.629 157.70001,4.1437 269.48096,-5.4472 267.49826,133.3436 -1.5932,111.5353 -203.35351,103.0457 -278.09537,103.586 -81.43304,0.5887 -235.88491,-9.47 -273.22403,-48.3409 -23.37345,-24.3322 -31.52878,-58.5533 -29.65054,-81.9597 z"
+       d="m 447.6904,3235.7711 c -1.88349,-94.9856 79.12558,-112.9075 332.84166,-106.629 167.44458,4.1437 286.13264,-5.4472 284.02744,133.3436 -1.6916,111.5353 -215.91907,103.0457 -295.27936,103.586 -86.46494,0.5887 -250.46067,-9.47 -290.10704,-48.3409 -24.81774,-24.3322 -33.477,-58.5533 -31.4827,-81.9597 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -97,8 +97,8 @@
      id="layer1"
      inkscape:label="txt">
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 85.211193,113.29173 c -23.941644,18.63879 -29.642027,41.71534 -27.361882,52.36603 2.280172,10.65066 34.202338,60.35402 36.482501,73.66746 2.280159,13.31343 -31.922176,72.77981 -25.081709,92.30615 6.840469,19.52633 19.994496,72.64194 110.060637,77.96715 94.20084,4.39626 396.55959,38.44871 462.25842,-38.02699 60.72923,-81.42162 69.55173,-237.91555 -9.12068,-268.04292 C 583.42524,87.552505 141.07499,61.813284 85.211193,113.29173 Z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 85.211193,103.2854 c -23.941644,18.63879 -29.642027,41.71534 -27.361882,52.36603 2.280172,10.65066 34.202338,60.35402 36.482501,73.66746 2.280159,13.31343 -31.922176,72.77981 -25.081709,92.30615 6.840469,19.52633 19.994496,72.64194 110.060637,77.96715 94.20084,4.39626 396.55959,38.44871 462.25842,-38.02699 C 702.29839,280.14358 711.12089,123.64965 632.44848,93.522283 583.42524,77.546174 141.07499,51.806953 85.211193,103.2854 z"
        id="path4464"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssscccc" />
@@ -106,7 +106,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(3.588009,-155.42155)"><flowRegion
+       transform="translate(20.505965,-150.48485)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9"
            width="497.70953"
@@ -114,8 +114,8 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3">Nowo wybrany król Acren jest zbyt dobry dla swych poddanych. Ludzie powinni bać się władcy.</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         id="flowPara3030-8-1-8-7-8-3">Новый король Акрена слишком добр и мягок со своими подданными. Люди должны бояться своего короля!</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 590.93195,374.40123 c -13.14604,32.78603 12.63645,114.47239 62.26505,127.10564 -70.18554,-4.07502 -99.34113,-76.97331 -105.63042,-99.95904 -6.28929,-22.98575 43.36537,-27.1466 43.36537,-27.1466 z"
        id="path5010"
@@ -125,7 +125,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(230.59292,1378.7768)"><flowRegion
+       transform="translate(235.66431,1394.3166)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5"
            width="567.27466"
@@ -133,21 +133,19 @@
            x="107.50903"
            y="276.40002"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3356">Twoją pierwszą misją jest odnalezienie i zastraszenie monarchy, by nim później manipulować.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.5px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         id="flowPara3356">Твое первое задание - найти и запугать монарха, чтобы лучше им манипулировать.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(368.53641,2894.3063)"><flowRegion
+       transform="translate(339.75545,2905.1027)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-2"
-           width="497.70953"
-           height="358.25998"
+           width="580.88531"
+           height="339.35635"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3-5-1">Prawdziwe wiedźmy Chaosu mają wpływy</flowPara><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3354">u możnych tego świata!</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         id="flowPara3030-8-1-8-7-8-3-5-1">Истинная ведьма Хаоса способна повелевать даже самыми могущественными из людей!</flowPara></flowRoot>  </g>
 </svg>
