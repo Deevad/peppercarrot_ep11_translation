@@ -94,14 +94,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1046"
+     inkscape:window-width="1280"
+     inkscape:window-height="990"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49190039"
      inkscape:cx="1192.0374"
-     inkscape:cy="788.28569"
-     inkscape:window-x="1280"
+     inkscape:cy="1926.7276"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep11_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -125,7 +125,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 117.14335,239.95798 c -7.24698,-97.53786 33.06268,-98.95842 75.78879,-112.26118 44.58111,-13.88031 371.05223,-38.876004 429.9141,27.20485 32.31799,36.28155 30.88656,174.92474 -55.74601,215.59755 -56.94194,26.73346 -277.51753,47.08716 -365.9758,3.11032 C 172.424,359.34116 128.18411,316.70858 117.14335,239.95798 Z"
+       d="m 102.95879,241.55797 c -7.639134,-100.29221 34.85179,-101.75289 79.88992,-115.4313 46.99351,-14.27227 391.13084,-39.973819 453.17788,27.97308 34.0668,37.3061 32.55791,179.86441 -58.76257,221.68577 -60.02322,27.48838 -292.53474,48.41685 -385.77971,3.19816 -30.25349,-14.67128 -76.88732,-58.50776 -88.52552,-137.42571 z"
        id="path3659"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -254,9 +254,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8">Pepper, ciertamente tienes gran talento, pero </flowPara><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3397">también eres nuestra única sucesora.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3397">Pepper, ciertamente tienes gran talento, pero también eres nuestra única sucesora.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -295,7 +293,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7">... ¡ó te privaremos de todos tus poderes!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3030-8-1-8-7">... ¡Ó te privaremos de todos tus poderes!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
