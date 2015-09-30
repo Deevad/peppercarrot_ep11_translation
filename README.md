@@ -21,7 +21,7 @@ License
 
 * French:     David Revoy
 
-* Hungarian: Halász Gábor "Hali"
+* Hungarian:  Halász Gábor "Hali"
 
 * Italian:    Carlo Gandolfi
 
@@ -30,6 +30,8 @@ License
 * Polish:     Sölve Svartskogen
 
 * Russian:    Denis "uncle Night" Prisukhin
+
+* Slovak:     talime
 
 * Swedish:    Mikael Olofsson
 
