@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P05.svg">
@@ -121,15 +121,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
      inkscape:cx="1561.686"
      inkscape:cy="1725.0446"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -138,13 +138,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/2015-09-30_ep11_The-Witches-of-Chaosah/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Luke\Documents\GitHub\peppercarrot_ep11_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -194,7 +194,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara4272-0-7">jeune...</flowPara></flowRoot>    <path
+         id="flowPara4272-0-7">jeunes...</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1060.6268,2467.0345 c 5.637,-0.5176 10.6215,-2.3865 13.7322,-5.4552 8.5919,8.1455 19.9676,-1.2315 20.9789,-3.1528 10.6149,4.3028 25.2765,0.9197 30.9647,-3.7686 14.1169,6.3882 43.6553,-4.2865 42.6115,-18.0317 15.9439,-10.1899 16.5968,-21.9146 11.5614,-28.9515 12.2244,-8.3668 17.9559,-46.3421 -17.1401,-49.5776 -10.071,-14.0737 -36.8799,-19.9459 -49.1042,-11.5788 -16.9882,-3.5557 -27.6573,-6.8803 -31.7032,0.8052 -6.9715,-6.6095 -22.5842,-7.7304 -24.7741,-0.4701 -12.2985,-6.7982 -29.0996,-8.3265 -38.0643,-2.1906 -16.9881,-3.5555 -27.6573,-6.8814 -31.7033,0.8042 -8.5916,-8.1454 -22.8179,-9.8704 -30.16099,0.8829 -14.60794,-4.9974 -16.79784,-1.538 -26.43005,4.2692 -16.47204,-10.6757 -31.08637,-5.4426 -36.95512,4.2528 -23.03873,-4.1973 -26.55138,12.4687 -25.345,18.6702 -20.08045,6.434 -25.47009,21.44 -10.28189,33.8017 -4.48114,15.5024 2.66493,33.3851 33.03004,40.3648 7.47149,12.021 32.31186,20.7583 49.15865,10.6015 12.14814,9.2538 31.15866,8.9666 38.81546,1.4127 6.1683,5.8477 13.7514,2.6646 17.9242,-0.3076 10.8948,5.7901 26.2327,7.7264 37.8019,0.7514 7.213,5.4945 16.8447,7.6246 25.0833,6.8679 z"
        id="path4043-4-9"
