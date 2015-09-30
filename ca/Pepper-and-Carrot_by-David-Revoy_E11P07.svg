@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P07.svg">
@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.29924759"
-     inkscape:cx="857.47015"
-     inkscape:cy="3825.8872"
+     inkscape:cx="822.38215"
+     inkscape:cy="1316.2596"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -66,15 +66,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Lludriga\Documents\pepper\peppercarrot_ep11_translation-master\peppercarrot_ep11_translation-master\ca\../gfx_Pepper-and-Carrot_by-David-Revoy_E11P07.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/ca/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P07.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="2481.4438"
        height="3504.5391"
-       width="2481.4438" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -103,7 +103,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3027"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.1196913,0,0,1.1666933,-289.56399,-1079.7044)"><flowRegion
          id="flowRegion3029"><rect
            id="rect3031"
@@ -113,13 +113,13 @@
            y="219.33444"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3033" /><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3497">Pepper &amp; Carrot és completament gratuït, open-source</flowPara><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3027">i finançat gràcies al mecenatge dels lectors.</flowPara><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3029">Volem agraïr per haver fet possible aquest episodi a XXX mecenes:</flowPara><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         id="flowPara3029">Volem agraïr per haver fet possible aquest episodi a 502 mecenes:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3031" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8"
