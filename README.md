@@ -13,33 +13,33 @@ License
 
 ## Translators and correctors:
 
-* Català:     Juan José Segura
+* Català: Juan José Segura
 
-* Dutch:      Willem Sonke
+* Dutch: Willem Sonke
 
-* English:    Alex Gryson
+* English: Alex Gryson
 
-* French:     David Revoy
+* French: David Revoy
 
-* Hungarian:  Halász Gábor "Hali"
+* Hungarian: Halász Gábor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
 
-* Italian:    Carlo Gandolfi
+* Italian: Carlo Gandolfi
 
-* Mexicano:   RJ Quiralta
+* Mexicano: RJ Quiralta
 
-* Polish:     Sölve Svartskogen
+* Polish: Sölve Svartskogen
 
-* Russian:    Denis "uncle Night" Prisukhin
+* Russian: Denis "uncle Night" Prisukhin
 
-* Slovak:     talime
+* Slovak: talime
 
-* Spanish:    TheFaico
+* Spanish: TheFaico
 
-* Swedish:    Mikael Olofsson
+* Swedish: Mikael Olofsson
 
-* Ukrainian:  Denis "uncle Night" Prisukhin
+* Ukrainian: Denis "uncle Night" Prisukhin
 
 * Vietnamese: Binh Pham
 
