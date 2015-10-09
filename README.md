@@ -27,6 +27,8 @@ License
 
 * Italian: Carlo Gandolfi, Antonio Parisi
 
+* Japanese: guruguru
+
 * Mexicano: RJ Quiralta
 
 * Polish: Sölve Svartskogen
