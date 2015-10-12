@@ -94,14 +94,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="990"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49190039"
      inkscape:cx="1192.0374"
-     inkscape:cy="1926.7276"
-     inkscape:window-x="0"
+     inkscape:cy="1845.4103"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep11_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -245,7 +245,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(5.943371,-119.60041)"><flowRegion
+       transform="translate(5.943371,-133.83093)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="504.77896"
@@ -253,7 +253,7 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
+         style="font-size:42.5px;text-align:center;text-anchor:middle"
          id="flowPara3397">Pepper, ciertamente tienes gran talento, pero también eres nuestra única sucesora.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5"
@@ -297,7 +297,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(78.664045,1502.521)"><flowRegion
+       transform="translate(74.598181,1494.3893)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4"><rect
            id="rect2991-7-9-6-5-7-5-4"
            width="510.21674"
