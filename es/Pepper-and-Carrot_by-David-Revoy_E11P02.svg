@@ -95,16 +95,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="676"
+     inkscape:window-height="683"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
      inkscape:cx="1332.3076"
-     inkscape:cy="648.25133"
+     inkscape:cy="533.25133"
      inkscape:window-x="0"
-     inkscape:window-y="63"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="/home/juanjo/Imágenes/Comics-Revoy/11/es/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -208,7 +208,7 @@
          id="flowPara3062-10"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi">¡Tacháaan!</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
-       d="m 115.99888,2843.589 c -42.827084,-219.036 50.36517,-150.7272 337.18865,-157.2891 224.28109,-5.1311 343.89146,44.529 348.03726,146.0877 4.01565,98.3703 -95.2885,178.0724 -305.86456,180.3127 -210.57608,2.2402 -377.72072,-25.0288 -379.36135,-169.1113 z"
+       d="m 116.08075,2830.3855 c -43.181284,-236.1251 50.78172,-162.4869 339.97737,-169.5607 226.13601,-5.5314 346.73561,48.0031 350.91571,157.4854 4.04885,106.045 -96.07659,191.9654 -308.39422,194.3805 -212.31765,2.415 -380.84466,-26.9816 -382.49886,-182.3052 z"
        id="path3270"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -312,16 +312,18 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(12.855213,2451.9602)"><flowRegion
+       transform="translate(-10.144786,2437.5852)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9"
-           width="604.09778"
-           height="350.41571"
+           width="638.59778"
+           height="353.29071"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3">Comino te va a acompañar a todos lados a partir de ahora. Su misión es ayudarte en tu formación e informarnos de tus progresos</flowPara></flowRoot>    <flowRoot
+         id="flowPara3398">Comino te va a acompañar a todos lados a partir de ahora. Su misión es ayudarte en tu formación e informarnos de</flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3401">tus progresos.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-0-3-4-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-3)"
