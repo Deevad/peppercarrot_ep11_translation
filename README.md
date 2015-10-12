@@ -19,6 +19,8 @@ License
 
 * English: Alex Gryson
 
+* Esperanto: Kaoseto, libre fan
+
 * French: David Revoy
 
 * Hungarian: Halász Gábor "Hali"
