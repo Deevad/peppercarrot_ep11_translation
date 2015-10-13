@@ -19,6 +19,8 @@ License
 
 * English: Alex Gryson
 
+* Finnish: Kari Lehto
+
 * Esperanto: Kaoseto, libre fan
 
 * French: David Revoy
