@@ -49,7 +49,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -57,12 +57,12 @@
      sodipodi:insensitive="true">
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep11_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -70,7 +70,7 @@
      inkscape:label="speechbubbles">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 313.85041,1688.3681 c 26.26297,-46.3566 74.44966,-90.4738 146.89928,-106.277 72.44947,-15.8034 217.94719,-15.0128 241.49338,-9.7449 23.54598,5.2677 153.93149,25.9435 182.00558,52.2825 28.07431,26.3389 60.81816,65.8464 68.96887,99.5602 8.1507,33.7138 -10.20426,104.1646 -25.3574,132.7484 -17.51854,33.0459 -140.2772,56.6823 -215.53734,58.9993 -78.03641,2.4023 -235.23181,-11.2256 -278.02498,-26.339 -44.98554,-15.8876 -95.09006,-26.3392 -109.57992,-63.2135 -14.48996,-36.8746 -41.65853,-85.3383 -10.86747,-138.016 z"
+       d="m 344.55189,1688.3681 c 23.69217,-46.3566 67.16201,-90.4738 132.51976,-106.277 65.35761,-15.8034 196.613,-15.0128 217.85433,-9.7449 21.24113,5.2677 138.8636,25.9435 164.18961,52.2825 25.3262,26.3389 54.86485,65.8464 62.21771,99.5602 7.35285,33.7138 -9.20539,104.1646 -22.87524,132.7484 -15.8037,33.0459 -126.54589,56.6823 -194.43904,58.9993 -70.39767,2.4023 -212.20569,-11.2256 -250.80996,-26.339 -40.58205,-15.8876 -85.78199,-26.3392 -98.85348,-63.2135 -13.07158,-36.8746 -37.5807,-85.3383 -9.80369,-138.016 z"
        id="path3533"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscssssssc" />
@@ -82,7 +82,7 @@
        sodipodi:nodetypes="ccccsccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 495.75207,3252.7106 c -1.48017,-109.9178 62.18201,-130.6571 261.5686,-123.3916 131.58884,4.7951 224.86166,-6.3034 223.20724,154.3059 -1.3294,129.0692 -169.68325,119.245 -232.04973,119.8702 -67.94976,0.6813 -196.82827,-10.9587 -227.98496,-55.9403 -19.50339,-28.1573 -26.30841,-67.7581 -24.74115,-94.8442 z"
+       d="m 495.76043,3244.2408 c -1.53728,-102.4517 64.58121,-121.7823 271.66086,-115.0103 136.66602,4.4694 233.53761,-5.8752 231.81939,143.8248 -1.3807,120.3023 -176.23025,111.1454 -241.00305,111.7281 -70.57151,0.635 -204.42262,-10.2143 -236.78145,-52.1406 -20.2559,-26.2447 -27.32348,-63.1557 -25.69575,-88.402 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -136,7 +136,7 @@
          style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara3356">Az első küldetésed,</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3363">hogy találd és félemlítsd meg az uralkodót. Így a későbbiekben majd könnyen manipulálhatjuk.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3363">hogy találd és félemlítsd meg az uralkodót. Így a későbbiekben könnyedén manipulálhatjuk.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -149,7 +149,9 @@
            y="236.12337"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3-5-1">Egy igazi Káoszah-boszorkány képes befolyásolni a</flowPara><flowPara
+         id="flowPara3030-8-1-8-7-8-3-5-1">Egy igazi Káoszah-boszorkány befolyással</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3365">hatalmasokat!</flowPara></flowRoot>  </g>
+         id="flowPara3365">bír a hatalmasok</flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3361">felett!</flowPara></flowRoot>  </g>
 </svg>

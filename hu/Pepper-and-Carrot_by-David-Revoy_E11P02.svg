@@ -73,7 +73,7 @@
      showgrid="false"
      inkscape:zoom="0.40000002"
      inkscape:cx="1151.6208"
-     inkscape:cy="581.32729"
+     inkscape:cy="781.32728"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -85,12 +85,12 @@
      sodipodi:insensitive="true">
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep11_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -295,7 +295,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1-8-7-8-3">Köménymag mostantól</flowPara><flowPara
+         id="flowPara3030-8-1-8-7-8-3">Köménymag ezentúl</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara3403">követni fogja minden lépésed.</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
