@@ -15,6 +15,8 @@ License
 
 * Català: Juan José Segura
 
+* Chinese: Ran Zhuang
+
 * Dutch: Willem Sonke
 
 * English: Alex Gryson
