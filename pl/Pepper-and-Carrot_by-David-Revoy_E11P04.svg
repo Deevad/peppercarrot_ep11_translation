@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.42773947"
-     inkscape:cx="1046.733"
-     inkscape:cy="393.17209"
+     inkscape:cx="670.33566"
+     inkscape:cy="-79.077993"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/WinMedia/pcn/peppercarrot_ep11_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
+       sodipodi:absref="/media/forge/Trashcan/Tests/pct/peppercarrot_ep11_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -177,5 +177,5 @@
          style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara3369">Na co czekasz?! Idź,</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3366">nastrasz go,nie daj mu spać!</flowPara></flowRoot>  </g>
+         id="flowPara3366">nastrasz go, nie daj mu spać!</flowPara></flowRoot>  </g>
 </svg>
