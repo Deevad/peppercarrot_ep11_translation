@@ -73,7 +73,7 @@
      showgrid="false"
      inkscape:zoom="0.40000002"
      inkscape:cx="868.936"
-     inkscape:cy="2708.9304"
+     inkscape:cy="2108.9304"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -86,11 +86,11 @@
     <image
        sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep11_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -266,7 +266,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3348">... annars återklallar vi</flowPara><flowPara
+         id="flowPara3348">... annars återkallar vi</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara3559">alla dina krafter!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
