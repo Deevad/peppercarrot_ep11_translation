@@ -73,7 +73,7 @@
      showgrid="false"
      inkscape:zoom="0.40000002"
      inkscape:cx="868.936"
-     inkscape:cy="908.93051"
+     inkscape:cy="2708.9304"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -86,11 +86,11 @@
     <image
        sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep11_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -227,7 +227,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8">Pepper, du är väldigt begåvade, men du är även vår enda efterträdare.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3030-8">Pepper, du är väldigt begåvad, men du är även vår enda efterträdare.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
