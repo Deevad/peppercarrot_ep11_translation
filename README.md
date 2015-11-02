@@ -23,7 +23,7 @@ License
 
 * Finnish: Kari Lehto
 
-* Esperanto: Kaoseto, libre fan
+* Esperanto: Kaoseto, libre fan (librefan.eu.org)
 
 * French: David Revoy
 
