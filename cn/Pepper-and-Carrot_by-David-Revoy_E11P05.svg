@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P05.svg">
@@ -126,8 +126,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.53"
-     inkscape:cx="1069.4158"
-     inkscape:cy="611.83705"
+     inkscape:cx="1449.1738"
+     inkscape:cy="3008.5844"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -138,13 +138,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\GitHub\peppercarrot_ep11_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep11_The-Witches-of-Chaosah/lang/cn/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -272,12 +272,12 @@
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-0-3-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-2)"
-       transform="matrix(0.72826899,-0.81755759,0.24767521,2.1649058,770.1582,-256.64007)"><flowRegion
+       transform="matrix(1.7717336,-0.83158876,-0.34527052,2.2020606,828.5707,-274.47269)"><flowRegion
          id="flowRegion2989-4-5-8-7-41-7-62"
          style="stroke-width:5.40286207"><rect
            id="rect2991-45-1-3-3-8-0-4"
-           width="319.66232"
-           height="53.089447"
+           width="635.80475"
+           height="224.17221"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
