@@ -13,6 +13,8 @@ License
 
 ## Translators and correctors:
 
+* Breton: Stefan Carpentier
+
 * Català: Juan José Segura
 
 * Chinese: Ran Zhuang
