@@ -15,7 +15,7 @@ License
 
 * Breton: Stefan Carpentier
 
-* Català: Juan José Segura
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
@@ -25,7 +25,7 @@ License
 
 * Finnish: Kari Lehto
 
-* Esperanto: Kaoseto, libre fan (librefan.eu.org)
+* Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
 
 * French: David Revoy
 
