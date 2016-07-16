@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.37194736"
-     inkscape:cx="1419.0756"
-     inkscape:cy="1905.4142"
+     inkscape:cx="1357.2389"
+     inkscape:cy="894.51846"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/mnt/bitcoin/peppercarrot_ep11_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -138,7 +138,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8">i doi la piper la kalsa tu'a do</flowPara><flowPara
+         id="flowPara3030-8">i doi la piper</flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara3372">la kalsa tu'a do</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara3912">to'e jgira</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -153,7 +155,7 @@
            y="270.90756"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3345">i la kaien cu drani i lo jerna be lo ka me lo te makfa pe la kalsa cu bilga lo ka vlipa lo ka da terpa gau ce'u gi'e tinbe fi ce'u gi'e sinma ce'u</flowPara></flowRoot>    <flowRoot
+         id="flowPara3374">i la kaien cu drani i lo jerna be lo ka me lo te makfa pe la kalsa cu bilga lo ka vlipa lo ka da terpa gau ce'u gi'e tinbe fi ce'u gi'e sinma ce'u</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-9-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
