@@ -29,6 +29,8 @@ License
 
 * French: David Revoy
 
+* Greek: George Karettas
+
 * Hungarian: Halász Gábor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
