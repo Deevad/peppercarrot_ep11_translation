@@ -41,6 +41,8 @@ License
 
 * Lojban: Gleki Arxokuna
 
+* Norwegian: Thomas Nordstrøm
+
 * Mexicano: RJ Quiralta
 
 * Polish: Sölve Svartskogen
