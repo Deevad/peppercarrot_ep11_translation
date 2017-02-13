@@ -43,6 +43,8 @@ License
 
 * Japanese: guruguru
 
+* Korean: Jihoon Kim
+
 * Lojban: Gleki Arxokuna
 
 * Norwegian: Thomas Nordstrøm
