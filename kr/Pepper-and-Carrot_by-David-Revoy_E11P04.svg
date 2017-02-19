@@ -87,13 +87,13 @@
        sodipodi:nodetypes="ccccccccccccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 564.78158,3188.1675 c -13.0347,30.5885 -86.55233,33.1535 -113.61621,26.9356 54.55451,34.219 52.65261,55.4797 -21.41705,58.7808 124.21608,61.6712 22.70839,52.339 2.68669,67.9769 97.5326,21.2534 53.89552,47.7035 36.53133,74.0343 112.10408,0.9044 75.41753,43.1116 80.1425,76.7271 9.50373,-15.7739 54.65329,-63.7965 57.36991,-10.3263 74.15033,-51.0134 163.46253,-83.9652 170.55419,5.3079 29.87641,-44.9109 59.66315,-63.8921 57.36989,-10.3265 74.02426,-69.6687 140.54543,-44.5914 207.46097,-24.9002 17.5751,-21.0279 19.6229,-53.3325 76.4819,-45.762 -7.9721,-20.8422 11.2257,-35.169 54.5814,-43.6769 -57.6127,-12.5903 -68.2306,-25.5767 38.7433,-39.5522 -81.4009,-1.3518 -157.3075,-4.1213 -61.8067,-51.7817 -29.9614,-1.1533 -101.0477,38.6159 -67.9045,-77.7694 -51.5199,37.2591 -106.48731,57.8235 -175.42115,-20.2248 -32.62306,38.9913 -89.20702,58.2857 -113.82381,9.5826 -8.84778,20.763 -45.53542,28.5715 -76.68047,29.5185 -12.04385,-8.2475 -24.46566,-19.4496 -37.4284,-34.1261 -21.18656,30.8169 -52.8793,51.6295 -113.82379,9.5824 z"
+       d="m 553.96003,3213.4105 c -13.58586,28.0524 -90.21208,30.4047 -118.42032,24.7023 56.86127,31.3818 54.87895,50.8798 -22.32264,53.9072 129.46839,56.5579 23.66858,47.9994 2.80029,62.3408 101.65664,19.4912 56.17442,43.7483 38.07601,67.8959 116.84425,0.8294 78.60646,39.5371 83.53122,70.3655 9.90558,-14.4661 56.96423,-58.507 59.79571,-9.4701 77.28568,-46.7838 170.37432,-77.0035 177.76584,4.8678 31.1397,-41.1873 62.18593,-58.5947 59.7957,-9.4703 77.15427,-63.8923 146.4882,-40.8942 216.23316,-22.8357 18.3182,-19.2844 20.4526,-48.9106 79.7158,-41.9678 -8.3091,-19.1141 11.7004,-32.253 56.8893,-40.0555 -60.0487,-11.5464 -71.1156,-23.4561 40.3815,-36.2729 -84.8428,-1.2397 -163.959,-3.7795 -64.4201,-47.4883 -31.2282,-1.0577 -105.3203,35.4142 -70.7757,-71.3214 -53.6984,34.1699 -110.98999,53.0292 -182.8386,-18.5479 -34.00248,35.7584 -92.97902,53.4531 -118.6367,8.7881 -9.22189,19.0415 -47.46082,26.2026 -79.92279,27.071 -12.55311,-7.5636 -25.50016,-17.837 -39.01101,-31.2966 -22.08241,28.2618 -55.11523,47.3488 -118.63667,8.7879 z"
        id="path3549-3-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 713.9685,3068.6785 c 59.98272,22.9665 72.40603,51.7648 83.09037,71.7564 -3.96986,4.3889 -9.50747,13.9597 -9.50747,13.9597 0,0 23.841,37.6333 29.26881,54.6234 5.42777,16.99 -11.14554,22.2846 -11.14554,22.2846 0,0 -47.75233,-72.1235 -61.50191,-84.8945 11.38696,-11.4395 15.42716,-18.9715 21.27652,-20.8402 -3.09592,-13.0541 -30.38419,-48.0256 -51.48078,-56.8894 z"
+       d="m 723.88725,3090.1691 c 59.98272,22.9665 72.40603,51.7648 83.09037,71.7564 -3.96986,4.3889 -9.50747,13.9597 -9.50747,13.9597 0,0 23.841,37.6333 29.26881,54.6234 5.42777,16.99 -11.14554,22.2846 -11.14554,22.2846 0,0 -47.75233,-72.1235 -61.50191,-84.8945 11.38696,-11.4395 15.42716,-18.9715 21.27652,-20.8402 -3.09592,-13.0541 -30.38419,-48.0256 -51.48078,-56.8894 z"
        id="path4456"
        inkscape:connector-curvature="0" />
   </g>
@@ -166,17 +166,17 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0-5-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.34826088px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.94553981,0,0,0.94553981,38.074984,217.66858)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.29455185px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-1.6531249,9.9187496)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-5-0-8"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-4-3-2"
-           width="1202.0906"
-           height="378.62994"
-           x="190.36906"
-           y="3203.0046"
+           width="1136.6245"
+           height="358.00967"
+           x="234.60776"
+           y="3247.8901"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.55597687px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3337">뭘 머뭇거리고 있어?!</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.55597687px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3343">어서! 깨워, 위협해, 겁을 줘!</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.60456085px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3337">뭘 머뭇거려?!</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.60456085px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3343">어서! 깨워, 위협해, 겁을 먹여!</flowPara></flowRoot>  </g>
 </svg>
