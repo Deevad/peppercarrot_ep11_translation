@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1858"
-     inkscape:window-height="1058"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900001"
-     inkscape:cx="795.11865"
-     inkscape:cy="1601.9299"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1173.1905"
+     inkscape:cy="-288.42923"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="C:\work\git\peppercarrot_ep11_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -98,7 +98,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="M 94.94749,92.852795 C 64.928444,110.01805 57.781062,131.27022 60.640004,141.0789 c 2.858977,9.80864 42.884336,55.58256 45.743306,67.84347 2.85896,12.2609 -40.025377,67.02601 -31.44851,85.00864 8.576869,17.98262 25.06994,66.89903 137.99868,71.80324 118.113,4.0487 497.2232,35.40904 579.59917,-35.02066 C 868.67753,255.72898 879.73955,111.6071 781.09676,83.861532 719.62934,69.148458 164.99188,45.444122 94.94749,92.852795 Z"
+       d="M 88.94749,92.852795 C 58.928444,110.01805 51.781062,131.27022 54.640004,141.0789 c 2.858977,9.80864 42.884336,55.58256 45.743306,67.84347 2.85896,12.2609 -40.025377,67.02601 -31.44851,85.00864 8.576869,17.98262 25.06994,66.89903 137.99868,71.80324 118.113,4.0487 497.2232,35.40904 579.59917,-35.02066 C 862.67753,255.72898 873.73955,111.6071 775.09676,83.861532 713.62934,69.148458 158.99188,45.444122 88.94749,92.852795 Z"
        id="path4464"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssscccc" />
@@ -106,7 +106,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(12.161516,-143.97511)"><flowRegion
+       transform="translate(6.161516,-143.97511)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9"
            width="655.43842"
@@ -125,7 +125,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(231.88359,1398.0973)"><flowRegion
+       transform="translate(227.88359,1398.0973)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5"
            width="567.27466"
@@ -134,7 +134,7 @@
            y="276.40002"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara3356">Deine erste Aufgabe ist es den König einzuschüchtern um ihn zu manipulieren.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3356">Deine erste Aufgabe ist es den König einzuschüchtern, um ihn zu manipulieren.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
