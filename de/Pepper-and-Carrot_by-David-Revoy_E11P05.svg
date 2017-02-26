@@ -94,15 +94,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1858"
-     inkscape:window-height="1058"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34782609"
-     inkscape:cx="849.68266"
-     inkscape:cy="1031.545"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1539.6827"
+     inkscape:cy="1721.545"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="C:\work\git\peppercarrot_ep11_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -229,7 +229,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara4435">...Gefange unseres Schicksals.</flowPara></flowRoot>    <path
+         id="flowPara4435">...Gefangene unseres Schicksals.</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1199.2151,2323.7893 c 2.225,-9.385 13.0044,-12.9003 20.604,-6.006 5.7937,-4.4838 15.1847,0.9709 10.4045,11.3728 7.9371,3.6245 10.2853,20.5369 -3.8877,20.7106 -3.8301,8.4751 -19.496,8.8047 -25.723,-3.4794 -10.5094,4.3941 -19.2873,-20.2128 -1.3978,-22.598 z"
        id="path4051-1"
