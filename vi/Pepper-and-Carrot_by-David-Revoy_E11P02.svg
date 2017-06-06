@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.1 renderfarm"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P02.svg">
-  <metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P02_092.svg">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -94,15 +94,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000002"
-     inkscape:cx="1196.3148"
-     inkscape:cy="751.81105"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1200.6626"
+     inkscape:cy="747.46322"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      showguides="false" />
@@ -112,13 +112,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep11_The-Witches-of-Chaosah/lang/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -155,17 +155,17 @@
        sodipodi:nodetypes="cccccccccccccccc" />
     <flowRoot
        transform="matrix(0.90617713,0,-0.22078013,1.6225798,1674.6489,683.70002)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.80311931;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.80311942;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"
        xml:space="preserve"><flowRegion
          id="flowRegion4214-6-7-8-3"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:2.80311931;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:2.80311942;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="265.53046"
            x="120.55251"
            height="355.03918"
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:2.80311931;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:2.80311942;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara4358-7-1">Im Lặng!</flowPara></flowRoot>    <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 1536.438,827.63771 c 38.3402,8.658 53.25,17.25536 46.5943,22.97307 15.6919,2.34592 23.7801,74.12364 9.558,87.66014 -0.9325,1.40993 -1.5899,2.12904 -4.6835,6.35676 7.5151,-1.20682 20.4396,-1.93554 23.4518,0.75214 3.012,2.68802 -25.0234,42.90311 -21.079,44.18133 3.9445,1.27809 92.8612,-27.42542 105.7342,-21.54202 12.8733,5.88327 9.9923,18.14849 10.4632,22.56279 4.7857,-1.32735 40.5297,-5.17462 44.7807,-3.97662 4.6826,2.26142 18.2047,17.6719 19.2199,21.6343 3.1722,-2.6293 28.7567,-8.66491 30.9537,-9.14168 2.6284,2.07508 6.8245,14.31648 7.4079,18.49148 4.0353,-3.9054 25.8832,-15.2354 28.8311,-14.6228 2.9474,0.6129 17.5563,32.5691 19.6926,36.8515 2.3524,-3.7978 34.9062,-39.0157 37.8108,-39.7863 2.9045,-0.77067 25.2929,39.6517 26.8428,47.0426 3.2758,-6.8558 22.3982,-33.1405 25.346,-32.5277 2.9475,0.6128 22.7286,17.5667 26.0256,20.7586 0.4925,-6.5897 27.9282,-43.67347 31.8296,-43.77866 3.9016,-0.10516 37.6442,17.67626 40.678,21.05576 -0.8499,-7.4654 5.2931,-18.14167 9.1946,-18.24687 3.9015,-0.10515 45.4874,9.00907 50.1091,10.41757 -2.4981,-2.8445 -7.2576,-13.6497 -4.3316,-13.7286 2.9262,-0.0788 42.4017,7.68426 51.1491,12.4663 -3.1191,-9.67771 91.826,9.2937 106.7659,11.6591 -9.0079,-8.9052 -45.6541,-55.53509 -40.9065,-59.81667 4.7479,-4.2817 17.9244,-2.25235 23.366,-2.01455 -6.7454,-6.7034 -11.0729,-10.77773 -8.2332,-13.62342 2.8404,-2.8456 21.2647,-17.51908 38.4772,-18.34396 -11.9137,-8.05479 -11.1805,-14.23638 -11.1805,-14.23638 0,0 50.8351,-16.44858 61.8432,-20.35861 -8.657,-3.34298 -29.8844,-19.2698 -26.1335,-24.21685 3.7509,-4.94704 4.7619,-6.79571 13.3326,-10.74352 -6.2609,-1.73101 -19.7439,-7.0827 -18.8759,-10.56745 0.868,-3.48477 2.7486,-19.764 12.9241,-23.88547 -8.5947,1.4072 -20.5256,-0.83114 -20.6115,-3.59796 -0.087,-2.76668 17.7708,-53.64943 32.4348,-66.47958 -29.8277,13.95726 -50.9156,-14.92228 -83.1026,-14.05448 -32.1873,0.86783 -19.5468,-0.74431 -24.4235,-0.61282 -4.8769,0.13148 -40.9591,1.31276 -45.836,1.44423 -4.8767,0.13147 -6.8403,-0.2324 -10.7419,-0.12721 -3.9011,0.10516 -26.3172,1.2723 -31.194,1.40379 -4.8767,0.13148 -50.7487,0.40958 -57.5764,0.59367 -6.8275,0.18407 -33.1506,1.26894 -39.003,1.42674 -5.8521,0.15778 -10.743,-0.16886 -15.6199,-0.0374 -4.8768,0.13149 -36.0767,1.34786 -40.9535,1.47932 -4.8768,0.1315 -12.7225,-1.05465 -16.6241,-0.94945 -3.9013,0.10516 -17.5125,1.91153 -17.5125,1.91153 0,0 -12.6835,0.21693 -18.5358,0.37471 -5.852,0.1578 -45.8193,1.96483 -50.6961,2.09633 -4.8769,0.13149 -48.1041,1.73741 -45.178,1.65852 2.9262,-0.0788 -42.6024,0.79159 -49.4298,0.97567 -6.8274,0.1841 -19.4877,1.20407 -21.4384,1.25667 -1.9507,0.0526 -15.6145,0.0966 -21.4666,0.25443 -5.8522,0.15781 -19.504,0.63008 -19.504,0.63008 l 1.9545,0.0723 c 0,0 -40.9795,0.6464 -45.8564,0.77788 -4.8767,0.13147 2.9483,0.62909 5.8742,0.55023 -17.5564,0.47332 -69.2701,1.24242 -73.1714,1.34759 -3.9016,0.10516 6.8435,0.33653 12.6957,0.17874 -7.8029,0.21038 -14.6333,0.31125 -14.6333,0.31125 l 22.4493,-0.10505 -6.8265,0.22576 c 0,0 -18.1259,34.28907 -18.0184,37.74753 0.1074,3.45833 -37.8025,8.63415 -37.8025,8.63415 0,0 15.7991,5.80427 12.0052,9.36791 -3.7942,3.56365 -13.4833,5.90169 -13.4833,5.90169 l -1.671,9.04464 z"
@@ -204,7 +204,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3056-6"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.92403899,-0.0431397,-0.21669727,0.91096764,408.69829,2651.2462)"><flowRegion
          id="flowRegion3058-8"><rect
            id="rect3060-0"
@@ -213,7 +213,7 @@
            x="1244.4525"
            y="652.80212" /></flowRegion><flowPara
          id="flowPara3062-10"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi">Ta-daaa!</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi">Ta-daaa!</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
        d="m 78.821591,2834.7275 c -43.682454,-234.2262 51.371099,-161.1802 343.923219,-168.1971 228.76059,-5.487 350.7599,47.6171 354.98851,156.2189 4.09585,105.1923 -97.19167,190.4218 -311.9735,192.8175 -214.78186,2.3955 -385.264828,-26.7646 -386.938229,-180.8393 z"
        id="path3270"
@@ -245,7 +245,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(43.571068,-104.62011)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
@@ -254,11 +254,11 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3030-8">Hạt tiêu, con rất tài năng, và con cũng là người nối dõng chúng ta.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(205.47778,135.17386)"><flowRegion
          id="flowRegion2989-5-4-5-8"><rect
            id="rect2991-7-9-6-5"
@@ -267,11 +267,11 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3030-8-1">Nhiệm vụ của chúng ta là làm cho con trở thành một phù thủy đáng sợ, xứng đáng với Chaosah.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1505.8735,526.25598)"><flowRegion
          id="flowRegion2989-5-4-5-8-9"><rect
            id="rect2991-7-9-6-5-7"
@@ -280,11 +280,11 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3030-8-1-8">Nhưng... Con không muốn trở nên đáng sợ. điều... điều nó ngược lại với mọi...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-24.873741,1269.1132)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5"><rect
            id="rect2991-7-9-6-5-7-5"
@@ -293,11 +293,11 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3348">... không là ta sẽ thu hồi hết phép thuật của con đó!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(82.726414,1510.2371)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4"><rect
            id="rect2991-7-9-6-5-7-5-4"
@@ -307,11 +307,11 @@
            y="256.90546"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
            ry="0" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3030-8-1-8-7-8">và con sẽ trở lại thành một đứa mồ côi và vô dụng  của Squirrel's End.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(24.355213,2469.2102)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9"
@@ -320,31 +320,31 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3030-8-1-8-7-8-3">Cumin sẽ theo sát con từ bây giờ để giúp con tập luyện và báo lại cho chúng ta sự tiến triển của con.</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="603.75"
        y="2942.375"
-       id="text3395"
-       sodipodi:linespacing="125%"><tspan
+       id="text3395"><tspan
          sodipodi:role="line"
          id="tspan3397"
          x="603.75"
-         y="2942.375" /></text>
+         y="2942.375"
+         style="font-size:40px;line-height:1.25"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-0-3-4-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-3)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-3)"
        transform="matrix(1.1967542,-0.56289093,0.22908574,2.2717035,1801.1466,2620.5927)"><flowRegion
          id="flowRegion2989-4-5-8-7-41-7-62-2"
          style="stroke-width:5.40286207"><rect
            id="rect2991-45-1-3-3-8-0-4-6"
            width="319.66232"
-           height="53.089447"
+           height="56.089447"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara2995-4-1-5-0-7-2-6-4"
-         style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Poof!</flowPara></flowRoot>  </g>
+         style="font-weight:normal;font-size:48px;line-height:1.25;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Poof!</flowPara></flowRoot>  </g>
 </svg>

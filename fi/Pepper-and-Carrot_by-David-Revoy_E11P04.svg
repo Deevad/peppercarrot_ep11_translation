@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 renderfarm"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P04.svg">
-  <metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P04_092.svg">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1130"
-     inkscape:window-height="1051"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.42773947"
      inkscape:cx="1278.5943"
      inkscape:cy="2369.3224"
      inkscape:window-x="769"
-     inkscape:window-y="-3"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer3" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Kari\Documents\Pepper and Carrot\Episode 11\fi\..\peppercarrot_ep11_translation-master\en\.\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep11_The-Witches-of-Chaosah/lang/fi/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -114,7 +114,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(753.04179,1697.0696)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5"
@@ -123,11 +123,11 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
+         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
          id="flowPara3030-8-1-8-7-8-3-5">Kuningasko ?...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(869.66915,1804.7426)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-5"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-4"
@@ -136,11 +136,11 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
+         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
          id="flowPara4229">...noin nuori ?!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1830.5002,2374.4537)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-5-0"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-4-3"
@@ -149,9 +149,9 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
+         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
          id="flowPara4272">Taidamme olla</flowPara><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
+         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
          id="flowPara3360">saman ikäisiä ...</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 2210.6349,2528.6131 c 2.0696,-13.9994 -8.3532,-20.0368 -8.3532,-20.0368 0,0 5.6241,-8.6102 1.0865,-17.2136 -4.5378,-8.6035 -16.6613,-7.7412 -16.6613,-7.7412 0,0 -11.2882,-7.8287 -23.7806,0.1332 -12.4925,7.9618 -19.7553,11.2152 -20.6573,24.8788 -7.6828,3.9568 -11.1303,18.6435 -6.6181,24.0487 4.5121,5.4054 16.5736,16.7998 32.3596,8.1827 5.4699,5.4216 25.1937,16.9447 42.6244,-12.2518 z"
@@ -167,7 +167,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0-5-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(383.68611,2941.4319)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-5-0-8"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-4-3-2"
@@ -176,10 +176,10 @@
            x="22.802517"
            y="277.03046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
+         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
          id="flowPara3343">Mitä oikein odotat?!</flowPara><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
+         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
          id="flowPara3371">Herätä hänet, uhkaile ja</flowPara><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle"
+         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
          id="flowPara3375">pelottele häntä!</flowPara></flowRoot>  </g>
 </svg>

@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 renderfarm"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P03.svg">
-  <metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P03_092.svg">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900001"
-     inkscape:cx="1067.7623"
-     inkscape:cy="2745.2173"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1071.543"
+     inkscape:cy="2741.4366"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Desktop\Krita\Pepper&amp;Carrot\peppercarrot_ep11_translation-master\peppercarrot_ep11_translation-master\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep11_The-Witches-of-Chaosah/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -105,7 +105,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5"
-       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';writing-mode:lr;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(14.834888,-114.56802)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9"
@@ -113,11 +113,15 @@
            height="358.25995"
            x="78.964615"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;writing-mode:lr;text-anchor:middle;" /></flowRegion><flowPara
-         id="flowPara3363">アクレンの新しい王様は</flowPara><flowPara
-         id="flowPara3365">臣下にちょっと優しすぎるの</flowPara><flowPara
-         id="flowPara3367">王様は人々に</flowPara><flowPara
-         id="flowPara3369">恐れられるべきなのに</flowPara></flowRoot>    <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3363"
+         style="font-size:45px;line-height:1.25">アクレンの新しい王様は</flowPara><flowPara
+         id="flowPara3365"
+         style="font-size:45px;line-height:1.25">臣下にちょっと優しすぎるの</flowPara><flowPara
+         id="flowPara3367"
+         style="font-size:45px;line-height:1.25">王様は人々に</flowPara><flowPara
+         id="flowPara3369"
+         style="font-size:45px;line-height:1.25">恐れられるべきなのに</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 590.93195,374.40123 c -13.14604,32.78603 12.63645,114.47239 62.26505,127.10564 -70.18554,-4.07502 -99.34113,-76.97331 -105.63042,-99.95904 -6.28929,-22.98575 43.36537,-27.1466 43.36537,-27.1466 z"
        id="path5010"
@@ -126,7 +130,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4"
-       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';writing-mode:lr;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(237.55467,1369.7419)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5"
@@ -134,14 +138,18 @@
            height="327.82516"
            x="107.50903"
            y="276.40002"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';font-size:45px;writing-mode:lr;line-height:125%;" /></flowRegion><flowPara
-         id="flowPara3371">あなたの最初の任務は</flowPara><flowPara
-         id="flowPara3373">王様を見つけて脅迫して</flowPara><flowPara
-         id="flowPara3375">恐れられる王になるように</flowPara><flowPara
-         id="flowPara3377">操作することよ</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3371"
+         style="font-size:45px;line-height:1.25">あなたの最初の任務は</flowPara><flowPara
+         id="flowPara3373"
+         style="font-size:45px;line-height:1.25">王様を見つけて脅迫して</flowPara><flowPara
+         id="flowPara3375"
+         style="font-size:45px;line-height:1.25">恐れられる王になるように</flowPara><flowPara
+         id="flowPara3377"
+         style="font-size:45px;line-height:1.25">操作することよ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-6"
-       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';writing-mode:lr;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(370.00119,2908.8834)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-2"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-2"
@@ -149,8 +157,11 @@
            height="358.25998"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';font-size:45px;writing-mode:lr;line-height:125%;" /></flowRegion><flowPara
-         id="flowPara3383">ケイオサーの真の魔女は</flowPara><flowPara
-         id="flowPara3385">権力にも影響を</flowPara><flowPara
-         id="flowPara3387">与えられるのよ!</flowPara></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3383"
+         style="font-size:45px;line-height:1.25">ケイオサーの真の魔女は</flowPara><flowPara
+         id="flowPara3385"
+         style="font-size:45px;line-height:1.25">権力にも影響を</flowPara><flowPara
+         id="flowPara3387"
+         style="font-size:45px;line-height:1.25">与えられるのよ!</flowPara></flowRoot>  </g>
 </svg>

@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 renderfarm"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P01.svg">
-  <metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P01_092.svg">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.2630065"
-     inkscape:cx="497.46026"
-     inkscape:cy="1474.8703"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="505.06463"
+     inkscape:cy="1467.2659"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Desktop\Krita\Pepper&amp;Carrot\peppercarrot_ep11_translation-master\peppercarrot_ep11_translation-master\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep11_The-Witches-of-Chaosah/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -128,7 +128,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(27.757822,1402.8032)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
@@ -137,11 +137,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4178">ペッパー、お前はケイオサーの</flowPara><flowPara
-         id="flowPara4180">恥さらしだ</flowPara></flowRoot>    <flowRoot
+         id="flowPara4178"
+         style="font-size:45px;line-height:1.25">ペッパー、お前はケイオサーの</flowPara><flowPara
+         id="flowPara4180"
+         style="font-size:45px;line-height:1.25">恥さらしだ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-9"
-       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';writing-mode:lr;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(857.22868,1414.1681)"><flowRegion
          id="flowRegion2989-5-4-5-1"><rect
            id="rect2991-7-9-6-4"
@@ -149,15 +151,20 @@
            height="297.96033"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';font-size:45px;writing-mode:lr;line-height:125%;" /></flowRegion><flowPara
-         id="flowPara4210">カイエンの言う通りじゃ</flowPara><flowPara
-         id="flowPara4212">一人前のケイオサーの</flowPara><flowPara
-         id="flowPara4214">魔女と呼ばれるものは</flowPara><flowPara
-         id="flowPara4216">人々の恐怖や敬意を</flowPara><flowPara
-         id="flowPara4218">呼ぶものなのじゃ</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4210"
+         style="font-size:45px;line-height:1.25">カイエンの言う通りじゃ</flowPara><flowPara
+         id="flowPara4212"
+         style="font-size:45px;line-height:1.25">一人前のケイオサーの</flowPara><flowPara
+         id="flowPara4214"
+         style="font-size:45px;line-height:1.25">魔女と呼ばれるものは</flowPara><flowPara
+         id="flowPara4216"
+         style="font-size:45px;line-height:1.25">人々の恐怖や敬意を</flowPara><flowPara
+         id="flowPara4218"
+         style="font-size:45px;line-height:1.25">呼ぶものなのじゃ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-9-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1682.6175,1412.1797)"><flowRegion
          id="flowRegion2989-5-4-5-1-6"><rect
            id="rect2991-7-9-6-4-8"
@@ -166,12 +173,15 @@
            x="65.552513"
            y="268.03046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4226">... それなのにあなたは</flowPara><flowPara
-         id="flowPara4228">紅茶とカップケーキを出したわ</flowPara><flowPara
-         id="flowPara4230">私たちの悪魔たちにまで*...</flowPara></flowRoot>    <flowRoot
+         id="flowPara4226"
+         style="font-size:45px;line-height:1.25">... それなのにあなたは</flowPara><flowPara
+         id="flowPara4228"
+         style="font-size:45px;line-height:1.25">紅茶とカップケーキを出したわ</flowPara><flowPara
+         id="flowPara4230"
+         style="font-size:45px;line-height:1.25">私たちの悪魔たちにまで*...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.00083542px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a0a0a0;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a0a0a0;fill-opacity:1;stroke:none"
        transform="matrix(0.66530597,0,0,0.68592152,1614.3374,2574.0818)"><flowRegion
          id="flowRegion2989-5-4-7-7-9"><rect
            id="rect2991-7-9-4-3-7"
@@ -180,10 +190,11 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.00083542px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a0a0a0;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4232">* エピソード 8: ペッパーの誕生パーティー参照</flowPara></flowRoot>    <flowRoot
+         id="flowPara4232"
+         style="font-size:48.00083542px;line-height:1.25">* エピソード 8: ペッパーの誕生パーティー参照</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0"
-       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';writing-mode:lr;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1405.6686,2630.8459)"><flowRegion
          id="flowRegion2989-5-4-5-4"><rect
            id="rect2991-7-9-6-8"
@@ -191,11 +202,12 @@
            height="55.739933"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';font-size:45px;writing-mode:lr;line-height:125%;" /></flowRegion><flowPara
-         id="flowPara4172">でも...</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4172"
+         style="font-size:45px;line-height:1.25">でも...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;writing-mode:lr;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1437.1706,2724.7653)"><flowRegion
          id="flowRegion2989-5-4-5-4-2"><rect
            id="rect2991-7-9-6-8-8"
@@ -203,6 +215,7 @@
            height="63.239929"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;text-anchor:middle;font-size:45px;writing-mode:lr;line-height:125%;" /></flowRegion><flowPara
-         id="flowPara4174">...教母様...</flowPara></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4174"
+         style="font-size:45px;line-height:1.25">...教母様...</flowPara></flowRoot>  </g>
 </svg>
