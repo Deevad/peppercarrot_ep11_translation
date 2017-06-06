@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P05_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P05.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -95,14 +95,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1024"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34782609"
-     inkscape:cx="855.43266"
-     inkscape:cy="2405.795"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="849.68266"
+     inkscape:cy="2411.545"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -111,13 +111,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep11_The-Witches-of-Chaosah/lang/cs/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
+       sodipodi:absref="C:\Documents and Settings\Katerina\Plocha\Feferonka a Karotka\Episode 11\cs\..\gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -130,18 +130,18 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-0-3-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1)"
        transform="matrix(0.72826899,-0.81755759,0.24767521,2.1649058,787.1265,-276.56588)"><flowRegion
          id="flowRegion2989-4-5-8-7-41-7-62"
          style="stroke-width:5.40286207"><rect
            id="rect2991-45-1-3-3-8-0-4"
            width="319.66232"
-           height="56.089447"
+           height="53.089447"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara2995-4-1-5-0-7-2-6"
-         style="font-weight:normal;font-size:48px;line-height:1.25;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Bzzz</flowPara></flowRoot>    <path
+         style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Bzzz</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1307.5658,1023.0655 c -9.0246,0.6321 -17.0789,3.6541 -22.2052,8.8605 -13.2856,-14.6295 -31.9358,1.1891 -33.6512,4.4937 -16.7166,-8.0201 -40.2966,-2.8205 -49.6222,5.0884 -22.1964,-11.8283 -69.9052,5.3819 -68.9617,29.4216 -25.9846,17.0173 -27.6433,37.4492 -19.9762,49.9728 -19.9518,14.0148 -31.097,80.0174 24.7512,87.352 15.3346,25.0472 57.8165,36.5851 77.7682,22.5701 26.9285,7.0225 43.783,13.338 50.645,0.1192 10.7799,11.8705 35.641,14.5779 39.5183,2.0117 19.2725,12.4563 46.009,15.9316 60.6406,5.6536 26.9285,7.0226 43.7831,13.3402 50.6451,0.1212 13.2852,14.6295 35.9016,18.324 48.1876,-0.091 23.0536,9.4245 26.7309,3.492 42.4106,-6.1802 25.7303,19.4246 49.332,10.9941 59.2091,-5.645 36.5523,8.4333 43.0353,-20.4848 41.4359,-31.3663 32.3895,-10.2636 41.7812,-36.1944 18.1887,-58.4996 7.9677,-26.8409 -2.4981,-58.3951 -50.598,-72.037 -11.2935,-21.3394 -50.4827,-37.7833 -77.9065,-20.8668 -18.9036,-16.7349 -49.2622,-17.148 -61.8807,-4.3321 -9.538,-10.5028 -21.809,-5.312 -28.6256,-0.3252 -17.0853,-10.6295 -41.4649,-14.7465 -60.2976,-3.1293 -11.2241,-9.9364 -26.4856,-14.1172 -39.6754,-13.1927 z"
        id="path4043"
@@ -150,7 +150,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0-5-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(996.95336,820.89393)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-5-0-8"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-4-3-2"
@@ -159,7 +159,7 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara4272-0">My dva jsme si trochu podobní...</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1263.0275,1261.586 c 3.2526,-13.9142 12.362,-12.7945 19.7109,-8.2909 7.1257,-0.1505 15.5492,0.9462 9.5739,13.2654 4.4484,3.5928 10.3777,11.5837 -2.1306,18.3276 -1.7432,6.2934 -19.9536,11.285 -26.591,-2.8511 -12.9529,-6.0801 -17.4582,-18.2401 -0.5632,-20.451 z"
@@ -181,7 +181,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0-5-5-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(526.87792,2012.1239)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-5-0-8-9"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-4-3-2-2"
@@ -190,7 +190,7 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara4272-0-7">mladí...</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1069.3278,2467.0345 c 5.2576,-0.5176 9.9066,-2.3865 12.808,-5.4552 8.0137,8.1455 18.6238,-1.2315 19.5671,-3.1528 9.9005,4.3028 23.5754,0.9197 28.8808,-3.7686 13.1669,6.3882 40.7174,-4.2865 39.7438,-18.0317 14.8709,-10.1899 15.4799,-21.9146 10.7834,-28.9515 11.4017,-8.3668 16.7475,-46.3421 -15.9866,-49.5776 -9.3933,-14.0737 -34.398,-19.9459 -45.7996,-11.5788 -15.8449,-3.5557 -25.796,-6.8803 -29.5697,0.8052 -6.5023,-6.6095 -21.0643,-7.7304 -23.1068,-0.4701 -11.4708,-6.7982 -27.1413,-8.3265 -35.5026,-2.1906 -15.8449,-3.5555 -25.7961,-6.8814 -29.5698,0.8042 -8.01337,-8.1454 -21.28227,-9.8704 -28.13119,0.8829 -13.62485,-4.9974 -15.66737,-1.538 -24.65135,4.2692 -15.3635,-10.6757 -28.99432,-5.4426 -34.46811,4.2528 -21.48827,-4.1973 -24.76452,12.4687 -23.63933,18.6702 -18.72907,6.434 -23.756,21.44 -9.58994,33.8017 -4.17957,15.5024 2.48559,33.3851 30.80718,40.3648 6.96867,12.021 30.13733,20.7583 45.85037,10.6015 11.33059,9.2538 29.06174,8.9666 36.20325,1.4127 5.75318,5.8477 12.82592,2.6646 16.71792,-0.3076 10.1616,5.7901 24.4673,7.7264 35.2579,0.7514 6.7276,5.4945 15.7111,7.6246 23.3953,6.8679 z"
@@ -200,7 +200,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0-5-5-7-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(676.11252,2111.665)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-5-0-8-9-8"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-4-3-2-2-3"
@@ -209,7 +209,7 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara4272-0-7-7">osamělí...</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1730.4918,2584.0944 c 7.1329,-0.6685 13.4401,-3.082 17.3761,-7.0453 10.8719,10.5197 25.2663,-1.5904 26.5461,-4.0715 13.4317,5.5568 31.9839,1.1876 39.1816,-4.8671 17.863,8.2501 55.2398,-5.5358 53.9191,-23.2871 20.1748,-13.1598 21.0009,-28.3018 14.6292,-37.3898 15.4684,-10.8053 22.7209,-59.8487 -21.6883,-64.0273 -12.7435,-18.1755 -46.6665,-25.7593 -62.1347,-14.9536 -21.4965,-4.592 -34.9966,-8.8856 -40.1161,1.04 -8.8214,-8.5359 -28.5774,-9.9837 -31.3483,-0.6072 -15.5622,-8.7795 -36.8216,-10.7532 -48.1653,-2.8291 -21.4961,-4.5918 -34.9966,-8.8871 -40.1162,1.0386 -10.8716,-10.5194 -28.8729,-12.7472 -38.1648,1.1403 -18.4843,-6.454 -21.2552,-1.9863 -33.4437,5.5135 -20.843,-13.7872 -39.3354,-7.0291 -46.7615,5.4923 -29.1524,-5.4206 -33.5972,16.1028 -32.0708,24.1118 -25.409,8.3093 -32.2289,27.6889 -13.0102,43.6536 -5.6703,20.0205 3.3721,43.1154 41.7949,52.1292 9.4543,15.5247 40.8863,26.8085 62.2039,13.6915 15.3716,11.9509 39.4268,11.58 49.1156,1.8244 7.8051,7.5521 17.4005,3.4413 22.6806,-0.3971 13.786,7.4777 33.1941,9.9782 47.8332,0.9704 9.1272,7.0959 21.3146,9.8468 31.7396,8.8695 z"
@@ -219,7 +219,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-5-9-8-3-5-4-0-5-5-7-1-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1308.8506,2188.3034)"><flowRegion
          id="flowRegion2989-5-4-5-8-9-5-4-2-2-5-0-8-9-8-8"><rect
            id="rect2991-7-9-6-5-7-5-4-9-5-4-3-2-2-3-4"
@@ -228,9 +228,9 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara4435">...otroci vlastních </flowPara><flowPara
-         style="font-size:45px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara3376">osudů.</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1199.2151,2323.7893 c 2.225,-9.385 13.0044,-12.9003 20.604,-6.006 5.7937,-4.4838 15.1847,0.9709 10.4045,11.3728 7.9371,3.6245 10.2853,20.5369 -3.8877,20.7106 -3.8301,8.4751 -19.496,8.8047 -25.723,-3.4794 -10.5094,4.3941 -19.2873,-20.2128 -1.3978,-22.598 z"
