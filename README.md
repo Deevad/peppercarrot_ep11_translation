@@ -27,6 +27,8 @@ License
 
 * English: Alex Gryson
 
+* Filipino: Paolo Abes
+
 * Finnish: Kari Lehto
 
 * Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
