@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E11P04.svg"
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -579,15 +579,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36769553"
-     inkscape:cx="1111.4108"
-     inkscape:cy="908.5509"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1001.2653"
+     inkscape:cy="943.90624"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      showguides="false" />
@@ -597,13 +597,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\jamesmichael\Downloads\Compressed\peppercarrot_ep11_translation-master\peppercarrot_ep11_translation-master\ph\../gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep11_The-Witches-of-Chaosah/lang/ph/../gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E11P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -925,16 +925,6 @@
        mask="url(#mask7347)"
        transform="translate(277.59736,-6.83007)"
        clip-path="none" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="1435.9707"
-       y="3464.925"
-       id="text1285"><tspan
-         sodipodi:role="line"
-         id="tspan1283"
-         x="1435.9707"
-         y="3464.925">Compatibility Note: Inkscape 0.92 Windows 10</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
